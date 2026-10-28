@@ -1,6 +1,572 @@
 {
  "items": [
   {
+   "id": "9bc9a873d7fdea07",
+   "title": "ESPN：布朗团队向绿军提的唯一要求是与塔图姆获得同等待遇",
+   "url": "https://m.hupu.com/bbs/643403877",
+   "source": "虎扑",
+   "ts": "2026-10-29T01:14:00+08:00",
+   "precision": "minute",
+   "first_seen": "2026-10-29T01:16:33+08:00",
+   "teams": [
+    "celtics"
+   ],
+   "players": [
+    "jayson-tatum"
+   ]
+  },
+  {
+   "id": "2b5695943be9518c",
+   "title": "MacMahon：克莱如今防守很差，字母哥也已不再是顶级防守者",
+   "url": "https://m.hupu.com/bbs/643403800",
+   "source": "虎扑",
+   "ts": "2026-10-29T01:06:18+08:00",
+   "precision": "minute",
+   "first_seen": "2026-10-29T01:16:33+08:00",
+   "teams": [],
+   "players": [
+    "giannis",
+    "klay-thompson"
+   ]
+  },
+  {
+   "id": "f6918843c9d4b402",
+   "title": "医学专家谈华子膝伤：如果只是膝盖“清理”反而让我更担心",
+   "url": "https://m.hupu.com/bbs/643403781",
+   "source": "虎扑",
+   "ts": "2026-10-29T01:04:28+08:00",
+   "precision": "minute",
+   "first_seen": "2026-10-29T01:16:33+08:00",
+   "teams": [],
+   "players": [
+    "anthony-edwards"
+   ]
+  },
+  {
+   "id": "03382fa33135c126",
+   "title": "NBA：雷霆今晚冲击NBA历史纪录，有望连续3季开局取得5连胜",
+   "url": "https://m.hupu.com/bbs/643403738",
+   "source": "虎扑",
+   "ts": "2026-10-29T01:00:35+08:00",
+   "precision": "minute",
+   "first_seen": "2026-10-29T01:16:33+08:00",
+   "teams": [
+    "thunder"
+   ],
+   "players": []
+  },
+  {
+   "id": "8e08df130168d0ae",
+   "title": "莫兰特将申诉假摔技术犯规：我只是被撞后退，根本没倒地",
+   "url": "https://m.hupu.com/bbs/643403699",
+   "source": "虎扑",
+   "ts": "2026-10-29T00:57:46+08:00",
+   "precision": "minute",
+   "first_seen": "2026-10-29T01:16:33+08:00",
+   "teams": [],
+   "players": [
+    "ja-morant"
+   ]
+  },
+  {
+   "id": "bb9637aa16c0bd63",
+   "title": "乌度卡：申京背部轻微拉伤，最多可能缺席几场比赛",
+   "url": "https://m.hupu.com/bbs/643403652",
+   "source": "虎扑",
+   "ts": "2026-10-29T00:54:10+08:00",
+   "precision": "minute",
+   "first_seen": "2026-10-29T01:16:33+08:00",
+   "teams": [],
+   "players": [
+    "alperen-sengun"
+   ]
+  },
+  {
+   "id": "419fbcc2ce885025",
+   "title": "森林狼总裁谈爱德华兹膝伤：非半月板问题，只是关节镜清理",
+   "url": "https://m.hupu.com/bbs/643403590",
+   "source": "虎扑",
+   "ts": "2026-10-29T00:50:36+08:00",
+   "precision": "minute",
+   "first_seen": "2026-10-29T01:16:33+08:00",
+   "teams": [
+    "timberwolves"
+   ],
+   "players": [
+    "anthony-edwards"
+   ]
+  },
+  {
+   "id": "db043f23f0fb7c46",
+   "title": "Windhorst暗示雷霆或迎回旧将：他们或会交易得到熟悉的球员",
+   "url": "https://m.hupu.com/bbs/643403558",
+   "source": "虎扑",
+   "ts": "2026-10-29T00:48:28+08:00",
+   "precision": "minute",
+   "first_seen": "2026-10-29T01:16:33+08:00",
+   "teams": [
+    "thunder"
+   ],
+   "players": []
+  },
+  {
+   "id": "2f04555347740dc2",
+   "title": "能做到吗？迪班萨迎来生涯首秀，奇才面对骑士已遭遇16连败",
+   "url": "https://m.hupu.com/bbs/643403545",
+   "source": "虎扑",
+   "ts": "2026-10-29T00:47:40+08:00",
+   "precision": "minute",
+   "first_seen": "2026-10-29T01:16:33+08:00",
+   "teams": [
+    "cavaliers",
+    "wizards"
+   ],
+   "players": []
+  },
+  {
+   "id": "244f60a9bfedf40a",
+   "title": "NBA官网最新一期新秀榜出炉：布泽尔&伦德伯格&威尔逊前三",
+   "url": "https://m.hupu.com/bbs/643403506",
+   "source": "虎扑",
+   "ts": "2026-10-29T00:45:26+08:00",
+   "precision": "minute",
+   "first_seen": "2026-10-29T01:16:33+08:00",
+   "teams": [],
+   "players": []
+  },
+  {
+   "id": "60055de2bb32a69b",
+   "title": "Ballislife：2009年的今天，库里迎来NBA生涯首秀拿到14分",
+   "url": "https://m.hupu.com/bbs/643403018",
+   "source": "虎扑",
+   "ts": "2026-10-29T00:18:27+08:00",
+   "precision": "minute",
+   "first_seen": "2026-10-29T01:16:33+08:00",
+   "teams": [],
+   "players": [
+    "stephen-curry"
+   ]
+  },
+  {
+   "id": "fe12f0e77f139d70",
+   "title": "Shams：AJ-迪班萨今晚将迎来个人NBA常规赛生涯首秀",
+   "url": "https://m.hupu.com/bbs/643403000",
+   "source": "虎扑",
+   "ts": "2026-10-29T00:17:09+08:00",
+   "precision": "minute",
+   "first_seen": "2026-10-29T01:16:33+08:00",
+   "teams": [],
+   "players": []
+  },
+  {
+   "id": "62aaf52462c470db",
+   "title": "ESPN公布最新实力榜：雷霆、森林狼、活塞、火箭、76人前五",
+   "url": "https://m.hupu.com/bbs/643402836",
+   "source": "虎扑",
+   "ts": "2026-10-29T00:08:44+08:00",
+   "precision": "minute",
+   "first_seen": "2026-10-29T01:16:33+08:00",
+   "teams": [
+    "timberwolves",
+    "76ers",
+    "rockets",
+    "thunder",
+    "pistons"
+   ],
+   "players": []
+  },
+  {
+   "id": "4ee36b30fd96ee77",
+   "title": "巴克利谈伦德博格刚东契奇：敢挑战没问题，输30分后该闭嘴",
+   "url": "https://m.hupu.com/bbs/643402831",
+   "source": "虎扑",
+   "ts": "2026-10-29T00:08:32+08:00",
+   "precision": "minute",
+   "first_seen": "2026-10-29T01:16:33+08:00",
+   "teams": [],
+   "players": [
+    "luka-doncic"
+   ]
+  },
+  {
+   "id": "c9812103fd765703",
+   "title": "奇才记者：迪班萨赛前参加投篮训练，对阵骑士仍出战成疑",
+   "url": "https://m.hupu.com/bbs/643402795",
+   "source": "虎扑",
+   "ts": "2026-10-29T00:06:29+08:00",
+   "precision": "minute",
+   "first_seen": "2026-10-29T01:16:33+08:00",
+   "teams": [
+    "cavaliers",
+    "wizards"
+   ],
+   "players": []
+  },
+  {
+   "id": "b48369efb4e2ac9f",
+   "title": "小哈达威谈热火现状：现在问题不在于压力而是太想做到完美",
+   "url": "https://m.hupu.com/bbs/643368025",
+   "source": "虎扑",
+   "ts": "2026-10-29T00:05:27+08:00",
+   "precision": "minute",
+   "first_seen": "2026-10-29T01:16:33+08:00",
+   "teams": [
+    "heat"
+   ],
+   "players": []
+  },
+  {
+   "id": "987ee3cf96718f3d",
+   "title": "八村垒：我曾试图从湖人那获得续约合同，但最终未能如愿",
+   "url": "https://m.hupu.com/bbs/643402771",
+   "source": "虎扑",
+   "ts": "2026-10-29T00:05:19+08:00",
+   "precision": "minute",
+   "first_seen": "2026-10-29T01:16:33+08:00",
+   "teams": [
+    "lakers"
+   ],
+   "players": [
+    "rui-hachimura"
+   ]
+  },
+  {
+   "id": "788dba22ffb6e044",
+   "title": "赛季至今助失比榜：卡鲁索、霍勒迪、霍兰德、范弗利特前四",
+   "url": "https://m.hupu.com/bbs/643402695",
+   "source": "虎扑",
+   "ts": "2026-10-29T00:01:48+08:00",
+   "precision": "minute",
+   "first_seen": "2026-10-29T01:16:33+08:00",
+   "teams": [],
+   "players": [
+    "fred-vanvleet",
+    "jrue-holiday"
+   ]
+  },
+  {
+   "id": "64d0e9a8817b7d10",
+   "title": "考辛斯力挺火箭冲出西部：去年缺人仍50胜，如今终于完整",
+   "url": "https://m.hupu.com/bbs/643402679",
+   "source": "虎扑",
+   "ts": "2026-10-29T00:01:22+08:00",
+   "precision": "minute",
+   "first_seen": "2026-10-29T01:16:33+08:00",
+   "teams": [
+    "rockets"
+   ],
+   "players": [
+    "demarcus-cousins"
+   ]
+  },
+  {
+   "id": "33a961e16b4916b6",
+   "title": "名嘴：伦德博格看起来像10年代中期的詹姆斯 他可能拯救库里时代",
+   "url": "https://news.zhibo8.com/nba/2026-10-29/6ae21eced5f13native.htm",
+   "source": "直播吧",
+   "ts": "2026-10-29T00:00:00+08:00",
+   "precision": "day",
+   "first_seen": "2026-10-29T01:16:33+08:00",
+   "teams": [],
+   "players": [
+    "lebron-james",
+    "stephen-curry"
+   ]
+  },
+  {
+   "id": "73cca093bb96f3ad",
+   "title": "宝刀未老！本赛季在詹姆斯防守下 对手命中率仅27.8%&三分23.1%",
+   "url": "https://news.zhibo8.com/nba/2026-10-29/6ae21c2ca7ba5native.htm",
+   "source": "直播吧",
+   "ts": "2026-10-29T00:00:00+08:00",
+   "precision": "day",
+   "first_seen": "2026-10-29T01:16:33+08:00",
+   "teams": [],
+   "players": [
+    "lebron-james"
+   ]
+  },
+  {
+   "id": "4c44a40905c117fa",
+   "title": "首期新秀榜：布泽尔压伦德博格居首 威尔逊列第3 掘金次轮秀排第8",
+   "url": "https://news.zhibo8.com/nba/2026-10-29/6ae21e61d84benative.htm",
+   "source": "直播吧",
+   "ts": "2026-10-29T00:00:00+08:00",
+   "precision": "day",
+   "first_seen": "2026-10-29T01:16:33+08:00",
+   "teams": [
+    "nuggets"
+   ],
+   "players": []
+  },
+  {
+   "id": "c83d0f7eb188aac2",
+   "title": "独行侠名人堂高管韦尔茨年底退休 现任总裁卡森将接任CEO一职",
+   "url": "https://news.zhibo8.com/nba/2026-10-29/6ae2208b1438cnative.htm",
+   "source": "直播吧",
+   "ts": "2026-10-29T00:00:00+08:00",
+   "precision": "day",
+   "first_seen": "2026-10-29T01:16:33+08:00",
+   "teams": [
+    "mavericks"
+   ],
+   "players": []
+  },
+  {
+   "id": "b3a2e0709bacf219",
+   "title": "16号秀斯特尔茨谈雷霆伤病：最重要是团结 眼下整个联盟伤兵满营",
+   "url": "https://news.zhibo8.com/nba/2026-10-29/6ae22aef0fa7dnative.htm",
+   "source": "直播吧",
+   "ts": "2026-10-29T00:00:00+08:00",
+   "precision": "day",
+   "first_seen": "2026-10-29T01:16:33+08:00",
+   "teams": [
+    "thunder"
+   ],
+   "players": []
+  },
+  {
+   "id": "b6a1cee8604639a4",
+   "title": "雷霆今日客场独行侠 若赢球将成为史上首支连续三赛季开季5-0球队",
+   "url": "https://news.zhibo8.com/nba/2026-10-29/6ae22402ebb0fnative.htm",
+   "source": "直播吧",
+   "ts": "2026-10-29T00:00:00+08:00",
+   "precision": "day",
+   "first_seen": "2026-10-29T01:16:33+08:00",
+   "teams": [
+    "mavericks",
+    "thunder"
+   ],
+   "players": []
+  },
+  {
+   "id": "e5e222cf3a493bfa",
+   "title": "名嘴：最近的伤病潮有点蹊跷 可能是球鞋技术产生了某些副作用",
+   "url": "https://news.zhibo8.com/nba/2026-10-29/6ae21e16c8252native.htm",
+   "source": "直播吧",
+   "ts": "2026-10-29T00:00:00+08:00",
+   "precision": "day",
+   "first_seen": "2026-10-29T01:16:33+08:00",
+   "teams": [],
+   "players": []
+  },
+  {
+   "id": "f78090c00b927c92",
+   "title": "考辛斯：当年隆多让我各项数据提升 范弗里特如今也在帮助申京",
+   "url": "https://news.zhibo8.com/nba/2026-10-29/6ae21e26222e4native.htm",
+   "source": "直播吧",
+   "ts": "2026-10-29T00:00:00+08:00",
+   "precision": "day",
+   "first_seen": "2026-10-29T01:16:33+08:00",
+   "teams": [],
+   "players": [
+    "demarcus-cousins",
+    "alperen-sengun"
+   ]
+  },
+  {
+   "id": "6693a74386afb827",
+   "title": "比尔·西蒙斯：火箭在我心中排第一 他们现在就是能够夺冠的球队",
+   "url": "https://news.zhibo8.com/nba/2026-10-29/6ae21c813548fnative.htm",
+   "source": "直播吧",
+   "ts": "2026-10-29T00:00:00+08:00",
+   "precision": "day",
+   "first_seen": "2026-10-29T01:16:33+08:00",
+   "teams": [
+    "rockets"
+   ],
+   "players": [
+    "bradley-beal"
+   ]
+  },
+  {
+   "id": "44d44ad1399a6890",
+   "title": "终于要来了！奇才官方晒迪班萨4号球衣&语录 预热状元首秀",
+   "url": "https://news.zhibo8.com/nba/2026-10-29/6ae22353e73f7native.htm",
+   "source": "直播吧",
+   "ts": "2026-10-29T00:00:00+08:00",
+   "precision": "day",
+   "first_seen": "2026-10-29T01:16:33+08:00",
+   "teams": [
+    "wizards"
+   ],
+   "players": []
+  },
+  {
+   "id": "9def5411e8024a42",
+   "title": "状元生涯首秀要来了⌛️Shams：奇才新秀迪班萨今日客战骑士复出",
+   "url": "https://news.zhibo8.com/nba/2026-10-29/6ad1ed5ae5eb2native.htm",
+   "source": "直播吧",
+   "ts": "2026-10-29T00:00:00+08:00",
+   "precision": "day",
+   "first_seen": "2026-10-29T01:16:33+08:00",
+   "teams": [
+    "cavaliers",
+    "wizards"
+   ],
+   "players": []
+  },
+  {
+   "id": "83ddda375b1d00be",
+   "title": "康纳利：爱德华兹将在24小时内接受手术 他不会缺席整个赛季",
+   "url": "https://news.zhibo8.com/nba/2026-10-29/6ae223aad77efnative.htm",
+   "source": "直播吧",
+   "ts": "2026-10-29T00:00:00+08:00",
+   "precision": "day",
+   "first_seen": "2026-10-29T01:16:33+08:00",
+   "teams": [],
+   "players": [
+    "anthony-edwards"
+   ]
+  },
+  {
+   "id": "948a86b6ee2d2b12",
+   "title": "申京本赛季场均24.5分9.0板7.0助1.8断，真实命中率67%",
+   "url": "https://m.hupu.com/bbs/643402624",
+   "source": "虎扑",
+   "ts": "2026-10-28T23:58:55+08:00",
+   "precision": "minute",
+   "first_seen": "2026-10-29T01:16:33+08:00",
+   "teams": [],
+   "players": [
+    "alperen-sengun"
+   ]
+  },
+  {
+   "id": "4c6ccd370dbff2a8",
+   "title": "名记：火箭在我心目中现在是联盟第一，他们相信自己能夺冠",
+   "url": "https://m.hupu.com/bbs/643402550",
+   "source": "虎扑",
+   "ts": "2026-10-28T23:55:41+08:00",
+   "precision": "minute",
+   "first_seen": "2026-10-29T01:16:33+08:00",
+   "teams": [
+    "rockets"
+   ],
+   "players": []
+  },
+  {
+   "id": "02f18b0ca080ef97",
+   "title": "ESPN：2016年今天，威少拿到自1975年贾巴尔以来首个50+三双",
+   "url": "https://m.hupu.com/bbs/643402497",
+   "source": "虎扑",
+   "ts": "2026-10-28T23:53:21+08:00",
+   "precision": "minute",
+   "first_seen": "2026-10-29T01:16:33+08:00",
+   "teams": [],
+   "players": [
+    "russell-westbrook"
+   ]
+  },
+  {
+   "id": "654c501f2a67c4a4",
+   "title": "BF：勇士是否已经找到了“后库里时代”的最佳接班人？",
+   "url": "https://m.hupu.com/bbs/643402474",
+   "source": "虎扑",
+   "ts": "2026-10-28T23:52:15+08:00",
+   "precision": "minute",
+   "first_seen": "2026-10-29T01:16:33+08:00",
+   "teams": [
+    "warriors"
+   ],
+   "players": [
+    "stephen-curry"
+   ]
+  },
+  {
+   "id": "7a24375855c83052",
+   "title": "比尔-西蒙斯猜伤病潮原因：球鞋科技或在某些情况下适得其反",
+   "url": "https://m.hupu.com/bbs/643402461",
+   "source": "虎扑",
+   "ts": "2026-10-28T23:51:38+08:00",
+   "precision": "minute",
+   "first_seen": "2026-10-29T01:16:33+08:00",
+   "teams": [],
+   "players": [
+    "bradley-beal"
+   ]
+  },
+  {
+   "id": "1db0850c73bc5f57",
+   "title": "希望明天能进八强！IG上中辅与霍姆格伦合影并交换亲签球衣",
+   "url": "https://m.hupu.com/bbs/643402436",
+   "source": "虎扑",
+   "ts": "2026-10-28T23:50:45+08:00",
+   "precision": "minute",
+   "first_seen": "2026-10-29T01:16:33+08:00",
+   "teams": [],
+   "players": [
+    "chet-holmgren"
+   ]
+  },
+  {
+   "id": "7a3526a2955d6e38",
+   "title": "大锁！詹姆斯本赛季限制对手投篮命中率27.8%、三分23.1%",
+   "url": "https://m.hupu.com/bbs/643402417",
+   "source": "虎扑",
+   "ts": "2026-10-28T23:50:03+08:00",
+   "precision": "minute",
+   "first_seen": "2026-10-29T01:16:33+08:00",
+   "teams": [],
+   "players": [
+    "lebron-james"
+   ]
+  },
+  {
+   "id": "950f58779d03578a",
+   "title": "ESPN：76人目前84%的得分来自于首发球员，联盟最高比例",
+   "url": "https://m.hupu.com/bbs/643402338",
+   "source": "虎扑",
+   "ts": "2026-10-28T23:46:37+08:00",
+   "precision": "minute",
+   "first_seen": "2026-10-29T01:16:33+08:00",
+   "teams": [
+    "76ers"
+   ],
+   "players": []
+  },
+  {
+   "id": "db97f00271e82cb0",
+   "title": "开赛至今罚球命中率最低球员：戈贝尔50.0%倒数第一",
+   "url": "https://m.hupu.com/bbs/643402336",
+   "source": "虎扑",
+   "ts": "2026-10-28T23:46:30+08:00",
+   "precision": "minute",
+   "first_seen": "2026-10-29T01:16:33+08:00",
+   "teams": [],
+   "players": [
+    "rudy-gobert"
+   ]
+  },
+  {
+   "id": "4d765c7ed8b6297e",
+   "title": "A-史密斯：尼克斯老板多兰因球员们不想造访白宫而感到不满",
+   "url": "https://m.hupu.com/bbs/643402124",
+   "source": "虎扑",
+   "ts": "2026-10-28T23:35:56+08:00",
+   "precision": "minute",
+   "first_seen": "2026-10-29T01:16:33+08:00",
+   "teams": [
+    "knicks"
+   ],
+   "players": []
+  },
+  {
+   "id": "f4b288bd4ff0a7fb",
+   "title": "保罗乔治&塔图姆：足尺寸团队型前锋组合！提升绿凯下限！",
+   "url": "https://m.hupu.com/bbs/643399633",
+   "source": "虎扑",
+   "ts": "2026-10-28T23:17:38+08:00",
+   "precision": "minute",
+   "first_seen": "2026-10-29T01:16:33+08:00",
+   "teams": [],
+   "players": [
+    "jayson-tatum",
+    "paul-george",
+    "chris-paul"
+   ]
+  },
+  {
    "id": "66f43da926fd42d8",
    "title": "利拉德：重返开拓者能陪伴孩子，这也是我与球队的共同选择",
    "url": "https://m.hupu.com/bbs/643394133",
@@ -4512,6 +5078,546 @@
    "players": [
     "herbert-jones"
    ]
+  },
+  {
+   "id": "d3d3a5f212037ce2",
+   "title": "五虎火力拉满！ESPN：76人前4场84%得分由首发贡献 高居联盟第一",
+   "url": "https://news.zhibo8.com/nba/2026-10-28/6ae217c922bcfnative.htm",
+   "source": "直播吧",
+   "ts": "2026-10-28T00:00:00+08:00",
+   "precision": "day",
+   "first_seen": "2026-10-29T01:16:33+08:00",
+   "teams": [
+    "76ers"
+   ],
+   "players": []
+  },
+  {
+   "id": "ccde2b972f4cd310",
+   "title": "富保罗：以前球员不换队是心理问题 詹姆斯离队引发了多米诺效应",
+   "url": "https://news.zhibo8.com/nba/2026-10-28/6ae20347d497cnative.htm",
+   "source": "直播吧",
+   "ts": "2026-10-28T00:00:00+08:00",
+   "precision": "day",
+   "first_seen": "2026-10-29T01:16:33+08:00",
+   "teams": [],
+   "players": [
+    "lebron-james"
+   ]
+  },
+  {
+   "id": "04064ca9ffcbe1ff",
+   "title": "文胖：19岁弗拉格防守比同龄詹姆斯更好 投篮基本功也更扎实",
+   "url": "https://news.zhibo8.com/nba/2026-10-28/6ae202fe12ab8native.htm",
+   "source": "直播吧",
+   "ts": "2026-10-28T00:00:00+08:00",
+   "precision": "day",
+   "first_seen": "2026-10-29T01:16:33+08:00",
+   "teams": [],
+   "players": [
+    "lebron-james"
+   ]
+  },
+  {
+   "id": "7d7eee81c20779ab",
+   "title": "艾弗森：我每年都觉得76人有机会夺冠 这次是真的很有机会",
+   "url": "https://news.zhibo8.com/nba/2026-10-28/6ae1fbf1e514dnative.htm",
+   "source": "直播吧",
+   "ts": "2026-10-28T00:00:00+08:00",
+   "precision": "day",
+   "first_seen": "2026-10-29T01:16:33+08:00",
+   "teams": [
+    "76ers"
+   ],
+   "players": [
+    "allen-iverson"
+   ]
+  },
+  {
+   "id": "93fd2ebe3545961b",
+   "title": "艾弗森：詹姆斯早就经历过夺冠 但他从未拥有过这般的阵容",
+   "url": "https://news.zhibo8.com/nba/2026-10-28/6ae1f788bd43fnative.htm",
+   "source": "直播吧",
+   "ts": "2026-10-28T00:00:00+08:00",
+   "precision": "day",
+   "first_seen": "2026-10-29T01:16:33+08:00",
+   "teams": [],
+   "players": [
+    "lebron-james",
+    "allen-iverson"
+   ]
+  },
+  {
+   "id": "e2bcebd22946d4ef",
+   "title": "艾弗森：詹姆斯一定能帮助76人重返总决赛 我保证会有冠军游行",
+   "url": "https://news.zhibo8.com/nba/2026-10-28/6ae1eca3ec7eanative.htm",
+   "source": "直播吧",
+   "ts": "2026-10-28T00:00:00+08:00",
+   "precision": "day",
+   "first_seen": "2026-10-29T01:16:33+08:00",
+   "teams": [
+    "76ers"
+   ],
+   "players": [
+    "lebron-james",
+    "allen-iverson"
+   ]
+  },
+  {
+   "id": "b3d7c35d0d36722b",
+   "title": "NBA彩经：76人掀翻步行者 火箭擒雄鹿 森林狼胜勇士 湖人再赢快船",
+   "url": "https://news.zhibo8.com/nba/2026-10-28/6ae1db95abf8anative.htm",
+   "source": "直播吧",
+   "ts": "2026-10-28T00:00:00+08:00",
+   "precision": "day",
+   "first_seen": "2026-10-29T01:16:33+08:00",
+   "teams": [
+    "timberwolves",
+    "76ers",
+    "pacers",
+    "lakers",
+    "warriors",
+    "clippers",
+    "rockets",
+    "bucks"
+   ],
+   "players": []
+  },
+  {
+   "id": "54e771838d91243e",
+   "title": "去你的兄弟情！布朗与塔图姆的恩怨情仇将利好NBA 球迷坐等看戏",
+   "url": "https://news.zhibo8.com/nba/2026-10-28/6ae1b39fe0f80native.htm",
+   "source": "直播吧",
+   "ts": "2026-10-28T00:00:00+08:00",
+   "precision": "day",
+   "first_seen": "2026-10-29T01:16:33+08:00",
+   "teams": [],
+   "players": [
+    "jayson-tatum"
+   ]
+  },
+  {
+   "id": "1f8e4cc956ae35fc",
+   "title": "八村谈湖人拒绝帮忙先签后换：事情早就定下来了 只是没立刻签约",
+   "url": "https://news.zhibo8.com/nba/2026-10-28/6ae21586c4532native.htm",
+   "source": "直播吧",
+   "ts": "2026-10-28T00:00:00+08:00",
+   "precision": "day",
+   "first_seen": "2026-10-29T01:16:33+08:00",
+   "teams": [
+    "lakers"
+   ],
+   "players": [
+    "rui-hachimura"
+   ]
+  },
+  {
+   "id": "71473b8bf70fbd28",
+   "title": "八村塁：在湖人是一段非常棒的时光 很高兴能在洛杉矶继续生涯",
+   "url": "https://news.zhibo8.com/nba/2026-10-28/6ae214b33f288native.htm",
+   "source": "直播吧",
+   "ts": "2026-10-28T00:00:00+08:00",
+   "precision": "day",
+   "first_seen": "2026-10-29T01:16:33+08:00",
+   "teams": [
+    "lakers"
+   ],
+   "players": [
+    "rui-hachimura"
+   ]
+  },
+  {
+   "id": "4d195170c42960ac",
+   "title": "八村塁：我一直想和湖人续约 离开是他们的决定不是我的决定",
+   "url": "https://news.zhibo8.com/nba/2026-10-28/6ae213a587119native.htm",
+   "source": "直播吧",
+   "ts": "2026-10-28T00:00:00+08:00",
+   "precision": "day",
+   "first_seen": "2026-10-29T01:16:33+08:00",
+   "teams": [
+    "lakers"
+   ],
+   "players": [
+    "rui-hachimura"
+   ]
+  },
+  {
+   "id": "8925aacb1320c0da",
+   "title": "莫兰特：我们防守主动亮双手&用胸膛去对抗 但判罚依然对我们不利",
+   "url": "https://news.zhibo8.com/nba/2026-10-28/6ae1db2d7bcadnative.htm",
+   "source": "直播吧",
+   "ts": "2026-10-28T00:00:00+08:00",
+   "precision": "day",
+   "first_seen": "2026-10-29T01:16:33+08:00",
+   "teams": [],
+   "players": [
+    "ja-morant"
+   ]
+  },
+  {
+   "id": "b7b3e12926a11bf5",
+   "title": "于嘉：篮板是开拓者今天制胜的事情 湖人堪用的中锋只有凯斯勒",
+   "url": "https://news.zhibo8.com/nba/2026-10-28/6ae1c79d0b70anative.htm",
+   "source": "直播吧",
+   "ts": "2026-10-28T00:00:00+08:00",
+   "precision": "day",
+   "first_seen": "2026-10-29T01:16:33+08:00",
+   "teams": [
+    "trail-blazers",
+    "lakers"
+   ],
+   "players": [
+    "walker-kessler"
+   ]
+  },
+  {
+   "id": "0632b5e0bd205582",
+   "title": "Slater：勇士对波津本赛季出战感到悲观 正探索交易但会保持耐心",
+   "url": "https://news.zhibo8.com/nba/2026-10-28/6ae1f67b48d1enative.htm",
+   "source": "直播吧",
+   "ts": "2026-10-28T00:00:00+08:00",
+   "precision": "day",
+   "first_seen": "2026-10-29T01:16:33+08:00",
+   "teams": [
+    "warriors"
+   ],
+   "players": []
+  },
+  {
+   "id": "05bd3787d75f3fdb",
+   "title": "巴特勒平替？伦德博格已成二当家 让勇士看到了后库里时代的希望",
+   "url": "https://news.zhibo8.com/nba/2026-10-28/6ae1db4b5cd68native.htm",
+   "source": "直播吧",
+   "ts": "2026-10-28T00:00:00+08:00",
+   "precision": "day",
+   "first_seen": "2026-10-29T01:16:33+08:00",
+   "teams": [
+    "warriors"
+   ],
+   "players": [
+    "jimmy-butler",
+    "stephen-curry"
+   ]
+  },
+  {
+   "id": "0f296255b8af8d75",
+   "title": "利拉德：决胜时刻吹假摔技犯太牵强 除非是特别夸张的恶劣假摔",
+   "url": "https://news.zhibo8.com/nba/2026-10-28/6ae1dc984c8d5native.htm",
+   "source": "直播吧",
+   "ts": "2026-10-28T00:00:00+08:00",
+   "precision": "day",
+   "first_seen": "2026-10-29T01:16:33+08:00",
+   "teams": [],
+   "players": [
+    "damian-lillard"
+   ]
+  },
+  {
+   "id": "f2d99aea27e8cb0a",
+   "title": "已经14年了！历史上的今天：雷霆拆散三少组合 将哈登交易至火箭",
+   "url": "https://news.zhibo8.com/nba/2026-10-28/6ae1d6e448d9bnative.htm",
+   "source": "直播吧",
+   "ts": "2026-10-28T00:00:00+08:00",
+   "precision": "day",
+   "first_seen": "2026-10-29T01:16:33+08:00",
+   "teams": [
+    "rockets",
+    "thunder"
+   ],
+   "players": [
+    "james-harden"
+   ]
+  },
+  {
+   "id": "81a32ec8549a93cc",
+   "title": "山西男篮主教练：赛前预料到深圳这场会反扑 我们已经打得很拼了",
+   "url": "https://news.zhibo8.com/nba/2026-10-28/6ae21982d59afnative.htm",
+   "source": "直播吧",
+   "ts": "2026-10-28T00:00:00+08:00",
+   "precision": "day",
+   "first_seen": "2026-10-29T01:16:33+08:00",
+   "teams": [],
+   "players": []
+  },
+  {
+   "id": "bae2d034b32fbf54",
+   "title": "CBA常规赛1-5轮：分差在2分及以内的5场 分差在10分及以内的22场",
+   "url": "https://news.zhibo8.com/nba/2026-10-28/6ae2174592762native.htm",
+   "source": "直播吧",
+   "ts": "2026-10-28T00:00:00+08:00",
+   "precision": "day",
+   "first_seen": "2026-10-29T01:16:33+08:00",
+   "teams": [],
+   "players": []
+  },
+  {
+   "id": "5ecf1d1b5e9329f9",
+   "title": "CBA常规赛第5轮最佳阵容：郭昊文 桑普森 李弘权 姜伟泽 威尔斯",
+   "url": "https://news.zhibo8.com/nba/2026-10-28/6ae2142ce935anative.htm",
+   "source": "直播吧",
+   "ts": "2026-10-28T00:00:00+08:00",
+   "precision": "day",
+   "first_seen": "2026-10-29T01:16:33+08:00",
+   "teams": [],
+   "players": []
+  },
+  {
+   "id": "aa7b6c888cf12187",
+   "title": "顾全：此前表现不佳 教练组负有很大责任 也一直在调整、尝试",
+   "url": "https://news.zhibo8.com/nba/2026-10-28/6ae20510da591native.htm",
+   "source": "直播吧",
+   "ts": "2026-10-28T00:00:00+08:00",
+   "precision": "day",
+   "first_seen": "2026-10-29T01:16:33+08:00",
+   "teams": [],
+   "players": []
+  },
+  {
+   "id": "c6b23d1461df1009",
+   "title": "媒体人：深圳战胜山西止连败 山西篮板优势大但三分太差末节断电",
+   "url": "https://news.zhibo8.com/nba/2026-10-28/6ae1ff6da3d40native.htm",
+   "source": "直播吧",
+   "ts": "2026-10-28T00:00:00+08:00",
+   "precision": "day",
+   "first_seen": "2026-10-29T01:16:33+08:00",
+   "teams": [],
+   "players": []
+  },
+  {
+   "id": "4508b1d6ee2ef148",
+   "title": "直播吧x咪咕【吧友评选】CBA第5轮最佳球员",
+   "url": "https://news.zhibo8.com/nba/2026-10-28/6ae1a0b6bb6ddnative.htm",
+   "source": "直播吧",
+   "ts": "2026-10-28T00:00:00+08:00",
+   "precision": "day",
+   "first_seen": "2026-10-29T01:16:33+08:00",
+   "teams": [],
+   "players": []
+  },
+  {
+   "id": "52f94234c436703f",
+   "title": "享受比赛享受胜利！走出更衣室后 广州龙狮准备好迎接下一场挑战",
+   "url": "https://news.zhibo8.com/nba/2026-10-28/6ae1f82e57c91native.htm",
+   "source": "直播吧",
+   "ts": "2026-10-28T00:00:00+08:00",
+   "precision": "day",
+   "first_seen": "2026-10-29T01:16:33+08:00",
+   "teams": [],
+   "players": []
+  },
+  {
+   "id": "b563d67fd082e9d5",
+   "title": "都很铁！深圳男篮本场三分球32投9中 山西男篮三分球32投5中",
+   "url": "https://news.zhibo8.com/nba/2026-10-28/6ae1fc6e3fa9fnative.htm",
+   "source": "直播吧",
+   "ts": "2026-10-28T00:00:00+08:00",
+   "precision": "day",
+   "first_seen": "2026-10-29T01:16:33+08:00",
+   "teams": [],
+   "players": []
+  },
+  {
+   "id": "00f30bfcb99f55a4",
+   "title": "都得加练！山西深圳全场哨声频繁合计67次罚球 双方均丢10+罚球",
+   "url": "https://news.zhibo8.com/nba/2026-10-28/6ae1fbcfb469dnative.htm",
+   "source": "直播吧",
+   "ts": "2026-10-28T00:00:00+08:00",
+   "precision": "day",
+   "first_seen": "2026-10-29T01:16:33+08:00",
+   "teams": [],
+   "players": []
+  },
+  {
+   "id": "81ab696d3e141802",
+   "title": "特奎维恩·史密斯18中6&三分13中4得到27分7板5助 第三节独得13分",
+   "url": "https://news.zhibo8.com/nba/2026-10-28/6ae1fb7361e6anative.htm",
+   "source": "直播吧",
+   "ts": "2026-10-28T00:00:00+08:00",
+   "precision": "day",
+   "first_seen": "2026-10-29T01:16:33+08:00",
+   "teams": [],
+   "players": []
+  },
+  {
+   "id": "4730e78c95e5d480",
+   "title": "这赛季咋了？张宁替补23分钟7中2仅拿4分4板1助1断 正负值-10",
+   "url": "https://news.zhibo8.com/nba/2026-10-28/6ae1f9591562dnative.htm",
+   "source": "直播吧",
+   "ts": "2026-10-28T00:00:00+08:00",
+   "precision": "day",
+   "first_seen": "2026-10-29T01:16:33+08:00",
+   "teams": [],
+   "players": []
+  },
+  {
+   "id": "208f6844d9d86017",
+   "title": "打得可以！卢鹏羽10投7中&三分3中0得到18分4板",
+   "url": "https://news.zhibo8.com/nba/2026-10-28/6ae1fa13be395native.htm",
+   "source": "直播吧",
+   "ts": "2026-10-28T00:00:00+08:00",
+   "precision": "day",
+   "first_seen": "2026-10-29T01:16:33+08:00",
+   "teams": [],
+   "players": []
+  },
+  {
+   "id": "0b63e215e0075172",
+   "title": "乌度卡：申京下背部轻微拉伤&最多缺席几场 斯玛特明天有望复出",
+   "url": "https://news.zhibo8.com/nba/2026-10-28/6ae210a4e9653native.htm",
+   "source": "直播吧",
+   "ts": "2026-10-28T00:00:00+08:00",
+   "precision": "day",
+   "first_seen": "2026-10-29T01:16:33+08:00",
+   "teams": [],
+   "players": [
+    "marcus-smart",
+    "alperen-sengun"
+   ]
+  },
+  {
+   "id": "3c19a70462cef480",
+   "title": "考辛斯：火箭阵容终于完整了 KD依然出色&亚当斯回归是巨大提升",
+   "url": "https://news.zhibo8.com/nba/2026-10-28/6ae20bfc31c88native.htm",
+   "source": "直播吧",
+   "ts": "2026-10-28T00:00:00+08:00",
+   "precision": "day",
+   "first_seen": "2026-10-29T01:16:33+08:00",
+   "teams": [
+    "rockets"
+   ],
+   "players": [
+    "demarcus-cousins",
+    "kevin-durant"
+   ]
+  },
+  {
+   "id": "a3e937b935d23ec5",
+   "title": "阿里纳斯：雷霆遭遇严重伤病 火箭如今完全有实力争夺总冠军",
+   "url": "https://news.zhibo8.com/nba/2026-10-28/6ae208771e4ecnative.htm",
+   "source": "直播吧",
+   "ts": "2026-10-28T00:00:00+08:00",
+   "precision": "day",
+   "first_seen": "2026-10-29T01:16:33+08:00",
+   "teams": [
+    "rockets",
+    "thunder"
+   ],
+   "players": [
+    "gilbert-arenas"
+   ]
+  },
+  {
+   "id": "8d4c4f358c00b0e7",
+   "title": "历史上仅13人多次绝杀一支球队 塔图姆两度绝杀篮网上榜",
+   "url": "https://news.zhibo8.com/nba/2026-10-28/6ae206dfdbbc6native.htm",
+   "source": "直播吧",
+   "ts": "2026-10-28T00:00:00+08:00",
+   "precision": "day",
+   "first_seen": "2026-10-29T01:16:33+08:00",
+   "teams": [
+    "nets"
+   ],
+   "players": [
+    "jayson-tatum"
+   ]
+  },
+  {
+   "id": "6e174f7081fbc4df",
+   "title": "MacMahon：欧文称无需避讳交易流言 不愿把负能量带进更衣室",
+   "url": "https://news.zhibo8.com/nba/2026-10-28/6ae1f555942b2native.htm",
+   "source": "直播吧",
+   "ts": "2026-10-28T00:00:00+08:00",
+   "precision": "day",
+   "first_seen": "2026-10-29T01:16:33+08:00",
+   "teams": [],
+   "players": [
+    "kyrie-irving"
+   ]
+  },
+  {
+   "id": "6886f5350d07bf4c",
+   "title": "MacMahon：篮球角度欧文&弗拉格是绝配 欧文有和球星搭档丰富经验",
+   "url": "https://news.zhibo8.com/nba/2026-10-28/6ae1f3466475cnative.htm",
+   "source": "直播吧",
+   "ts": "2026-10-28T00:00:00+08:00",
+   "precision": "day",
+   "first_seen": "2026-10-29T01:16:33+08:00",
+   "teams": [],
+   "players": [
+    "kyrie-irving"
+   ]
+  },
+  {
+   "id": "8689ca27b6fa7c3a",
+   "title": "名记：奇才虽没能和库利巴利达成提前续约 但仍视其为未来一部分",
+   "url": "https://news.zhibo8.com/nba/2026-10-28/6ae1d6a4d4e7bnative.htm",
+   "source": "直播吧",
+   "ts": "2026-10-28T00:00:00+08:00",
+   "precision": "day",
+   "first_seen": "2026-10-29T01:16:33+08:00",
+   "teams": [
+    "wizards"
+   ],
+   "players": [
+    "bilal-coulibaly"
+   ]
+  },
+  {
+   "id": "1c2c621aeea1ea53",
+   "title": "巴爷：尼克斯在祈祷字母的热火生涯失败 然后用唐斯单换他",
+   "url": "https://news.zhibo8.com/nba/2026-10-28/6ae20add8d69cnative.htm",
+   "source": "直播吧",
+   "ts": "2026-10-28T00:00:00+08:00",
+   "precision": "day",
+   "first_seen": "2026-10-29T01:16:33+08:00",
+   "teams": [
+    "knicks",
+    "heat"
+   ],
+   "players": [
+    "karl-anthony-towns"
+   ]
+  },
+  {
+   "id": "db19f5a9bc1b2dd9",
+   "title": "巴克利：搭档字母很难 他拿球就是一打五 阿德巴约就站外边看着",
+   "url": "https://news.zhibo8.com/nba/2026-10-28/6ae2095003123native.htm",
+   "source": "直播吧",
+   "ts": "2026-10-28T00:00:00+08:00",
+   "precision": "day",
+   "first_seen": "2026-10-29T01:16:33+08:00",
+   "teams": [],
+   "players": [
+    "bam-adebayo"
+   ]
+  },
+  {
+   "id": "3989f7e64da76cce",
+   "title": "波什：热火现在毫无防守 进攻端字母太停滞&阿德巴约缺少侵略性",
+   "url": "https://news.zhibo8.com/nba/2026-10-28/6ae204657eb57native.htm",
+   "source": "直播吧",
+   "ts": "2026-10-28T00:00:00+08:00",
+   "precision": "day",
+   "first_seen": "2026-10-29T01:16:33+08:00",
+   "teams": [
+    "heat"
+   ],
+   "players": [
+    "bam-adebayo"
+   ]
+  },
+  {
+   "id": "c039b029dca98eb6",
+   "title": "狼记：森林狼将用双向合同签回弗里曼 他将先前往发展联盟报到",
+   "url": "https://news.zhibo8.com/nba/2026-10-28/6ae1fe41d38d0native.htm",
+   "source": "直播吧",
+   "ts": "2026-10-28T00:00:00+08:00",
+   "precision": "day",
+   "first_seen": "2026-10-29T01:16:33+08:00",
+   "teams": [
+    "timberwolves"
+   ],
+   "players": []
   },
   {
    "id": "3e255ff3023877b7",
@@ -33745,48 +34851,6 @@
    ]
   },
   {
-   "id": "3d3b002544c9e96e",
-   "title": "变阵收奇效！文胖：76人多次让詹姆斯打防守中锋 由他主防唐斯",
-   "url": "https://news.zhibo8.com/nba/2026-10-22/6ad8df7cbba6anative.htm",
-   "source": "直播吧",
-   "ts": "2026-10-22T00:00:00+08:00",
-   "precision": "day",
-   "first_seen": "2026-10-22T00:03:49+08:00",
-   "teams": [
-    "76ers"
-   ],
-   "players": [
-    "lebron-james",
-    "karl-anthony-towns"
-   ]
-  },
-  {
-   "id": "c9723e129cd79282",
-   "title": "浓眉：休赛期有充分时间恢复 现在身体状态很好很高兴重返球场",
-   "url": "https://news.zhibo8.com/nba/2026-10-22/6ad8e1a64a8f5native.htm",
-   "source": "直播吧",
-   "ts": "2026-10-22T00:00:00+08:00",
-   "precision": "day",
-   "first_seen": "2026-10-22T00:03:49+08:00",
-   "teams": [],
-   "players": [
-    "anthony-davis"
-   ]
-  },
-  {
-   "id": "37493a3adee1f3a9",
-   "title": "奇才GM：新赛季是球队成长之年 要逐步建立能够持续成功的体系",
-   "url": "https://news.zhibo8.com/nba/2026-10-22/6ad8e142b4672native.htm",
-   "source": "直播吧",
-   "ts": "2026-10-22T00:00:00+08:00",
-   "precision": "day",
-   "first_seen": "2026-10-22T00:03:49+08:00",
-   "teams": [
-    "wizards"
-   ],
-   "players": []
-  },
-  {
    "id": "7d19a472b020ab8a",
    "title": "7冠含金量？霍里：没多少人像老詹那样为争冠换队 大家都只想赚钱",
    "url": "https://news.zhibo8.com/nba/2026-10-22/6ad9cc4b6b3e4native.htm",
@@ -40181,1976 +41245,6 @@
    "teams": [],
    "players": [
     "brandon-miller"
-   ]
-  },
-  {
-   "id": "c5551318a43f1265",
-   "title": "格里芬谈快船遭重罚：处罚合理，最心疼忠诚球迷",
-   "url": "https://m.hupu.com/bbs/643136573",
-   "source": "虎扑",
-   "ts": "2026-10-21T23:48:21+08:00",
-   "precision": "minute",
-   "first_seen": "2026-10-22T00:03:49+08:00",
-   "teams": [
-    "clippers"
-   ],
-   "players": []
-  },
-  {
-   "id": "eaf3ef66ee39b301",
-   "title": "A史密斯预测詹姆斯将在25个赛季后退役：这是他生涯最后两年",
-   "url": "https://m.hupu.com/bbs/643136422",
-   "source": "虎扑",
-   "ts": "2026-10-21T23:38:40+08:00",
-   "precision": "minute",
-   "first_seen": "2026-10-22T00:03:49+08:00",
-   "teams": [],
-   "players": [
-    "lebron-james"
-   ]
-  },
-  {
-   "id": "2868a0d8a9bdfded",
-   "title": "Windhorst：詹姆斯客串防守中锋效果极佳，已成为防守支柱",
-   "url": "https://m.hupu.com/bbs/643136398",
-   "source": "虎扑",
-   "ts": "2026-10-21T23:37:39+08:00",
-   "precision": "minute",
-   "first_seen": "2026-10-22T00:03:49+08:00",
-   "teams": [],
-   "players": [
-    "lebron-james"
-   ]
-  },
-  {
-   "id": "f9a2cd77282086ff",
-   "title": "ESPN预测明日比赛：奇才胜率63.3%，雄鹿胜率36.7%",
-   "url": "https://m.hupu.com/bbs/643136350",
-   "source": "虎扑",
-   "ts": "2026-10-21T23:35:00+08:00",
-   "precision": "minute",
-   "first_seen": "2026-10-22T00:03:49+08:00",
-   "teams": [
-    "bucks",
-    "wizards"
-   ],
-   "players": []
-  },
-  {
-   "id": "1b10add9b431ffbd",
-   "title": "Scotto：爵士裁掉双向布莱克-辛森，和科比-巴夫金签下双向",
-   "url": "https://m.hupu.com/bbs/643136197",
-   "source": "虎扑",
-   "ts": "2026-10-21T23:25:45+08:00",
-   "precision": "minute",
-   "first_seen": "2026-10-22T00:03:49+08:00",
-   "teams": [
-    "jazz"
-   ],
-   "players": [
-    "kobe-bryant"
-   ]
-  },
-  {
-   "id": "d5d526f049e3b20b",
-   "title": "NBA晒新赛季法国17人大名单：文班、戈贝尔、萨尔、雷诺领衔",
-   "url": "https://m.hupu.com/bbs/643136061",
-   "source": "虎扑",
-   "ts": "2026-10-21T23:17:20+08:00",
-   "precision": "minute",
-   "first_seen": "2026-10-22T00:03:49+08:00",
-   "teams": [],
-   "players": [
-    "rudy-gobert",
-    "victor-wembanyama",
-    "alex-sarr"
-   ]
-  },
-  {
-   "id": "00c6dcc5b5732b28",
-   "title": "湖勇大战！勇士官方晒揭幕战比赛预告：我们的篮球回来了",
-   "url": "https://m.hupu.com/bbs/643135893",
-   "source": "虎扑",
-   "ts": "2026-10-21T23:06:17+08:00",
-   "precision": "minute",
-   "first_seen": "2026-10-22T00:03:49+08:00",
-   "teams": [
-    "warriors"
-   ],
-   "players": []
-  },
-  {
-   "id": "d5b81408ad9900a7",
-   "title": "NBA官方：明日11场揭幕战，森林狼热火&湖人勇士2场全美直播",
-   "url": "https://m.hupu.com/bbs/643135673",
-   "source": "虎扑",
-   "ts": "2026-10-21T22:52:32+08:00",
-   "precision": "minute",
-   "first_seen": "2026-10-22T00:03:49+08:00",
-   "teams": [
-    "timberwolves",
-    "lakers",
-    "warriors",
-    "heat"
-   ],
-   "players": []
-  },
-  {
-   "id": "c0c8086f853ff14d",
-   "title": "东契奇刊登《洛杉矶时报》致信球迷：开启冲击总冠军的征程",
-   "url": "https://m.hupu.com/bbs/643135534",
-   "source": "虎扑",
-   "ts": "2026-10-21T22:44:56+08:00",
-   "precision": "minute",
-   "first_seen": "2026-10-22T00:03:49+08:00",
-   "teams": [],
-   "players": [
-    "luka-doncic"
-   ]
-  },
-  {
-   "id": "caa703a54e1e4747",
-   "title": "蒂格：詹姆斯转型打中锋这一点，足以让他成为历史最佳球员",
-   "url": "https://m.hupu.com/bbs/643135267",
-   "source": "虎扑",
-   "ts": "2026-10-21T22:30:25+08:00",
-   "precision": "minute",
-   "first_seen": "2026-10-22T00:03:49+08:00",
-   "teams": [],
-   "players": [
-    "lebron-james"
-   ]
-  },
-  {
-   "id": "96dd1ab5f137b7c4",
-   "title": "ESPN预测明日比赛：森林狼胜率49.1%，热火胜率50.9%",
-   "url": "https://m.hupu.com/bbs/643135221",
-   "source": "虎扑",
-   "ts": "2026-10-21T22:28:00+08:00",
-   "precision": "minute",
-   "first_seen": "2026-10-22T00:03:49+08:00",
-   "teams": [
-    "timberwolves",
-    "heat"
-   ],
-   "players": []
-  },
-  {
-   "id": "9cdad39c56dec15a",
-   "title": "詹姆斯马克西恩比德同时在场时，76人百回合净胜尼克斯31分",
-   "url": "https://m.hupu.com/bbs/643135205",
-   "source": "虎扑",
-   "ts": "2026-10-21T22:27:16+08:00",
-   "precision": "minute",
-   "first_seen": "2026-10-22T00:03:49+08:00",
-   "teams": [
-    "knicks",
-    "76ers"
-   ],
-   "players": [
-    "lebron-james",
-    "joel-embiid",
-    "tyrese-maxey"
-   ]
-  },
-  {
-   "id": "702087fd9e897705",
-   "title": "火箭揭幕战已经遭遇8连败，上次赢揭幕战还是17年赢勇士1分",
-   "url": "https://m.hupu.com/bbs/643135181",
-   "source": "虎扑",
-   "ts": "2026-10-21T22:26:04+08:00",
-   "precision": "minute",
-   "first_seen": "2026-10-22T00:03:49+08:00",
-   "teams": [
-    "warriors",
-    "rockets"
-   ],
-   "players": []
-  },
-  {
-   "id": "4f2ec556acf9f6c2",
-   "title": "Sidery：新赛季开局阶段，莫兰特将以第六人身份登场",
-   "url": "https://m.hupu.com/bbs/643135144",
-   "source": "虎扑",
-   "ts": "2026-10-21T22:23:56+08:00",
-   "precision": "minute",
-   "first_seen": "2026-10-22T00:03:49+08:00",
-   "teams": [],
-   "players": [
-    "ja-morant"
-   ]
-  },
-  {
-   "id": "c997bba6b0ad8898",
-   "title": "湖人官方晒出新赛季全员出镜特效海报：湖人篮球来了🗣️",
-   "url": "https://m.hupu.com/bbs/643134905",
-   "source": "虎扑",
-   "ts": "2026-10-21T22:11:05+08:00",
-   "precision": "minute",
-   "first_seen": "2026-10-22T00:03:49+08:00",
-   "teams": [
-    "lakers"
-   ],
-   "players": []
-  },
-  {
-   "id": "e31ec2251544df60",
-   "title": "今夏大手笔引援剑指四强却开局两连败，山东男篮该如何调整",
-   "url": "https://m.hupu.com/bbs/643134670",
-   "source": "虎扑",
-   "ts": "2026-10-21T22:01:55+08:00",
-   "precision": "minute",
-   "first_seen": "2026-10-22T00:03:49+08:00",
-   "teams": [],
-   "players": []
-  },
-  {
-   "id": "cccaf45da4ccbb67",
-   "title": "库兹马：我的心态和精神都非常棒，我的最佳状态还没到来",
-   "url": "https://m.hupu.com/bbs/643134643",
-   "source": "虎扑",
-   "ts": "2026-10-21T21:59:18+08:00",
-   "precision": "minute",
-   "first_seen": "2026-10-22T00:03:49+08:00",
-   "teams": [],
-   "players": [
-    "kyle-kuzma"
-   ]
-  },
-  {
-   "id": "4c956eb55fb0260d",
-   "title": "杰威谈雷霆马刺冲突：损失了2500美元，但必须为队友出头",
-   "url": "https://m.hupu.com/bbs/643134483",
-   "source": "虎扑",
-   "ts": "2026-10-21T21:53:13+08:00",
-   "precision": "minute",
-   "first_seen": "2026-10-22T00:03:49+08:00",
-   "teams": [
-    "thunder",
-    "spurs"
-   ],
-   "players": []
-  },
-  {
-   "id": "7f627f6f4ed267b0",
-   "title": "字母哥：我很喜欢和阿德巴约一起打球，他性格和我哥哥很像",
-   "url": "https://m.hupu.com/bbs/643134309",
-   "source": "虎扑",
-   "ts": "2026-10-21T21:46:02+08:00",
-   "precision": "minute",
-   "first_seen": "2026-10-22T00:03:49+08:00",
-   "teams": [],
-   "players": [
-    "bam-adebayo",
-    "giannis"
-   ]
-  },
-  {
-   "id": "ecbbeddcc67fe612",
-   "title": "CBA常规赛：库珀27分&段昂君19分，辽宁97-93战胜青岛",
-   "url": "https://m.hupu.com/bbs/643134298",
-   "source": "虎扑",
-   "ts": "2026-10-21T21:45:39+08:00",
-   "precision": "minute",
-   "first_seen": "2026-10-22T00:03:49+08:00",
-   "teams": [],
-   "players": []
-  },
-  {
-   "id": "43732f92ab083819",
-   "title": "马克西谈3断3帽：我是防守者，而且是货真价实的防守者",
-   "url": "https://m.hupu.com/bbs/643134105",
-   "source": "虎扑",
-   "ts": "2026-10-21T21:39:00+08:00",
-   "precision": "minute",
-   "first_seen": "2026-10-22T00:03:49+08:00",
-   "teams": [],
-   "players": [
-    "tyrese-maxey"
-   ]
-  },
-  {
-   "id": "91bcd98d71ed42cf",
-   "title": "肖华：詹姆斯快42岁仍是顶级全明星，这证明了他的职业态度",
-   "url": "https://m.hupu.com/bbs/643134071",
-   "source": "虎扑",
-   "ts": "2026-10-21T21:37:34+08:00",
-   "precision": "minute",
-   "first_seen": "2026-10-22T00:03:49+08:00",
-   "teams": [],
-   "players": [
-    "lebron-james"
-   ]
-  },
-  {
-   "id": "b46fa69dbcf70e0c",
-   "title": "追梦：我预测布伦森将夺得26-27赛季常规赛MVP",
-   "url": "https://m.hupu.com/bbs/643134056",
-   "source": "虎扑",
-   "ts": "2026-10-21T21:36:49+08:00",
-   "precision": "minute",
-   "first_seen": "2026-10-22T00:03:49+08:00",
-   "teams": [],
-   "players": [
-    "jalen-brunson",
-    "draymond-green"
-   ]
-  },
-  {
-   "id": "d72fbfbd0e104614",
-   "title": "森林狼官方晒出新赛季全员出镜海报：新赛季，硬碰硬！",
-   "url": "https://m.hupu.com/bbs/643133975",
-   "source": "虎扑",
-   "ts": "2026-10-21T21:33:07+08:00",
-   "precision": "minute",
-   "first_seen": "2026-10-22T00:03:49+08:00",
-   "teams": [
-    "timberwolves"
-   ],
-   "players": []
-  },
-  {
-   "id": "24242ee850cb324b",
-   "title": "恩比德：度过伤病低谷很煎熬，渴望有同频队友相互打气扶持",
-   "url": "https://m.hupu.com/bbs/643133896",
-   "source": "虎扑",
-   "ts": "2026-10-21T21:30:49+08:00",
-   "precision": "minute",
-   "first_seen": "2026-10-22T00:03:49+08:00",
-   "teams": [],
-   "players": [
-    "joel-embiid"
-   ]
-  },
-  {
-   "id": "ad59d01b79385950",
-   "title": "追梦：东契奇永远拿不到MVP，因为其表现会被视作理所当然",
-   "url": "https://m.hupu.com/bbs/643133747",
-   "source": "虎扑",
-   "ts": "2026-10-21T21:25:45+08:00",
-   "precision": "minute",
-   "first_seen": "2026-10-22T00:03:49+08:00",
-   "teams": [],
-   "players": [
-    "luka-doncic",
-    "draymond-green"
-   ]
-  },
-  {
-   "id": "5fc9ceda1c9aa4d8",
-   "title": "巴克利：打NBA时会把凡士林藏在肚脐里，只为比赛期间润唇",
-   "url": "https://m.hupu.com/bbs/643133429",
-   "source": "虎扑",
-   "ts": "2026-10-21T21:13:28+08:00",
-   "precision": "minute",
-   "first_seen": "2026-10-22T00:03:49+08:00",
-   "teams": [],
-   "players": []
-  },
-  {
-   "id": "5476d1e6df917e51",
-   "title": "文胖：76人容错率很高 詹姆斯&恩比德低效也能击败卫冕冠军",
-   "url": "https://news.zhibo8.com/nba/2026-10-21/6ad8ddcdb4113native.htm",
-   "source": "直播吧",
-   "ts": "2026-10-21T00:00:00+08:00",
-   "precision": "day",
-   "first_seen": "2026-10-22T00:03:49+08:00",
-   "teams": [
-    "76ers"
-   ],
-   "players": [
-    "lebron-james",
-    "joel-embiid"
-   ]
-  },
-  {
-   "id": "776c5f5d320366aa",
-   "title": "家庭美满！詹姆斯妻子和女儿今日来到纽约 见证老詹76人生涯首秀",
-   "url": "https://news.zhibo8.com/nba/2026-10-21/6ad8dc4f5c678native.htm",
-   "source": "直播吧",
-   "ts": "2026-10-21T00:00:00+08:00",
-   "precision": "day",
-   "first_seen": "2026-10-22T00:03:49+08:00",
-   "teams": [
-    "76ers",
-    "knicks"
-   ],
-   "players": [
-    "lebron-james"
-   ]
-  },
-  {
-   "id": "914eb982e7750177",
-   "title": "詹姆斯：我的训练量很大 泡冷水浴的恢复效果堪称巅峰&能重置一切",
-   "url": "https://news.zhibo8.com/nba/2026-10-21/6ad8d6f2c5751native.htm",
-   "source": "直播吧",
-   "ts": "2026-10-21T00:00:00+08:00",
-   "precision": "day",
-   "first_seen": "2026-10-22T00:03:49+08:00",
-   "teams": [],
-   "players": [
-    "lebron-james"
-   ]
-  },
-  {
-   "id": "9bd0b45126da9b85",
-   "title": "A·史密斯：若塔图姆不愿布朗离队这笔交易不会发生 他显然不介意",
-   "url": "https://news.zhibo8.com/nba/2026-10-21/6ad8d82498052native.htm",
-   "source": "直播吧",
-   "ts": "2026-10-21T00:00:00+08:00",
-   "precision": "day",
-   "first_seen": "2026-10-22T00:03:49+08:00",
-   "teams": [],
-   "players": [
-    "jayson-tatum"
-   ]
-  },
-  {
-   "id": "2cbfe6825dd0e345",
-   "title": "阿里纳斯组建理想阵容：我搭档科比詹姆斯杜兰特奥尼尔 稳拿冠军",
-   "url": "https://news.zhibo8.com/nba/2026-10-21/6ad8c34262e3fnative.htm",
-   "source": "直播吧",
-   "ts": "2026-10-21T00:00:00+08:00",
-   "precision": "day",
-   "first_seen": "2026-10-22T00:03:49+08:00",
-   "teams": [],
-   "players": [
-    "gilbert-arenas",
-    "lebron-james",
-    "kevin-durant",
-    "shaquille-oneal",
-    "kobe-bryant"
-   ]
-  },
-  {
-   "id": "7079cf8b6537b208",
-   "title": "波普：詹姆斯从没变过 他还是那个詹姆斯 只是换了方式做那些事",
-   "url": "https://news.zhibo8.com/nba/2026-10-21/6ad8c6676608bnative.htm",
-   "source": "直播吧",
-   "ts": "2026-10-21T00:00:00+08:00",
-   "precision": "day",
-   "first_seen": "2026-10-22T00:03:49+08:00",
-   "teams": [],
-   "players": [
-    "lebron-james",
-    "kentavious-caldwell-pope"
-   ]
-  },
-  {
-   "id": "49056947049c108e",
-   "title": "詹姆斯：我进高压氧舱就是为了睡觉 我妻子还把iPad手机都带进去",
-   "url": "https://news.zhibo8.com/nba/2026-10-21/6ad8bba2cb3b1native.htm",
-   "source": "直播吧",
-   "ts": "2026-10-21T00:00:00+08:00",
-   "precision": "day",
-   "first_seen": "2026-10-22T00:03:49+08:00",
-   "teams": [],
-   "players": [
-    "lebron-james"
-   ]
-  },
-  {
-   "id": "866f6e6b9fbd7243",
-   "title": "詹姆斯76人首秀评级：整体影响&快攻表现A 和尼克斯球迷对喷A+",
-   "url": "https://news.zhibo8.com/nba/2026-10-21/6ad85050774fbnative.htm",
-   "source": "直播吧",
-   "ts": "2026-10-21T00:00:00+08:00",
-   "precision": "day",
-   "first_seen": "2026-10-22T00:03:49+08:00",
-   "teams": [
-    "knicks",
-    "76ers"
-   ],
-   "players": [
-    "lebron-james"
-   ]
-  },
-  {
-   "id": "fcea27d1ab3e08a3",
-   "title": "解说：老詹首秀14+9+7教育卫冕冠军 总冠军预测含金量+1？",
-   "url": "https://news.zhibo8.com/nba/2026-10-21/6ad8c3452fe22native.htm",
-   "source": "直播吧",
-   "ts": "2026-10-21T00:00:00+08:00",
-   "precision": "day",
-   "first_seen": "2026-10-22T00:03:49+08:00",
-   "teams": [],
-   "players": [
-    "lebron-james"
-   ]
-  },
-  {
-   "id": "2960b904618b5d9d",
-   "title": "阿里纳斯：詹姆斯加盟前没人关注76人 现在突然冒出大批球队球迷",
-   "url": "https://news.zhibo8.com/nba/2026-10-21/6ad8bbf717bfenative.htm",
-   "source": "直播吧",
-   "ts": "2026-10-21T00:00:00+08:00",
-   "precision": "day",
-   "first_seen": "2026-10-22T00:03:49+08:00",
-   "teams": [
-    "76ers"
-   ],
-   "players": [
-    "gilbert-arenas",
-    "lebron-james"
-   ]
-  },
-  {
-   "id": "302d5c00478a55d1",
-   "title": "👀费城四巨头掀翻卫冕冠军、绿军败走底特律！东部谁能称王？",
-   "url": "https://news.zhibo8.com/nba/2026-10-21/6ad8883c87d08native.htm",
-   "source": "直播吧",
-   "ts": "2026-10-21T00:00:00+08:00",
-   "precision": "day",
-   "first_seen": "2026-10-22T00:03:49+08:00",
-   "teams": [
-    "celtics",
-    "76ers"
-   ],
-   "players": []
-  },
-  {
-   "id": "17d51d39a2ff39ab",
-   "title": "萨瓦娜吐槽詹姆斯每天都吃蛋糕饼干和冰淇淋：他总说自己要跑全场",
-   "url": "https://news.zhibo8.com/nba/2026-10-21/6ad8b57801d73native.htm",
-   "source": "直播吧",
-   "ts": "2026-10-21T00:00:00+08:00",
-   "precision": "day",
-   "first_seen": "2026-10-22T00:03:49+08:00",
-   "teams": [],
-   "players": [
-    "lebron-james"
-   ]
-  },
-  {
-   "id": "68e2e24bac09a83f",
-   "title": "单打乔：詹姆斯去76人就是为帮他们终结43年冠军荒提升历史地位",
-   "url": "https://news.zhibo8.com/nba/2026-10-21/6ad8b36585ed9native.htm",
-   "source": "直播吧",
-   "ts": "2026-10-21T00:00:00+08:00",
-   "precision": "day",
-   "first_seen": "2026-10-22T00:03:49+08:00",
-   "teams": [
-    "76ers"
-   ],
-   "players": [
-    "lebron-james"
-   ]
-  },
-  {
-   "id": "cb5dab835533cd8d",
-   "title": "名嘴夏普：76人真是严控老将时间 以便让恩比德留力打季后赛",
-   "url": "https://news.zhibo8.com/nba/2026-10-21/6ad8b0b22f5aanative.htm",
-   "source": "直播吧",
-   "ts": "2026-10-21T00:00:00+08:00",
-   "precision": "day",
-   "first_seen": "2026-10-22T00:03:49+08:00",
-   "teams": [
-    "76ers"
-   ],
-   "players": [
-    "joel-embiid",
-    "shaedon-sharpe"
-   ]
-  },
-  {
-   "id": "8faf41c28d24841e",
-   "title": "名嘴：詹姆斯在用脑子击败对手 东部的悬念只剩76人和热火了",
-   "url": "https://news.zhibo8.com/nba/2026-10-21/6ad8ad65bce7enative.htm",
-   "source": "直播吧",
-   "ts": "2026-10-21T00:00:00+08:00",
-   "precision": "day",
-   "first_seen": "2026-10-22T00:03:49+08:00",
-   "teams": [
-    "76ers",
-    "heat"
-   ],
-   "players": [
-    "lebron-james"
-   ]
-  },
-  {
-   "id": "324a00887aed7460",
-   "title": "追梦：塔图姆&东契奇永远拿不到MVP 他们年少成名让人们审美疲劳",
-   "url": "https://news.zhibo8.com/nba/2026-10-21/6ad8ac6c69919native.htm",
-   "source": "直播吧",
-   "ts": "2026-10-21T00:00:00+08:00",
-   "precision": "day",
-   "first_seen": "2026-10-22T00:03:49+08:00",
-   "teams": [],
-   "players": [
-    "luka-doncic",
-    "jayson-tatum",
-    "draymond-green"
-   ]
-  },
-  {
-   "id": "9fc36274415581f6",
-   "title": "单打乔：76人让詹姆斯防唐斯解放了恩比德 布朗全场锁死布伦森",
-   "url": "https://news.zhibo8.com/nba/2026-10-21/6ad8ab06ebb10native.htm",
-   "source": "直播吧",
-   "ts": "2026-10-21T00:00:00+08:00",
-   "precision": "day",
-   "first_seen": "2026-10-22T00:03:49+08:00",
-   "teams": [
-    "76ers"
-   ],
-   "players": [
-    "lebron-james",
-    "joel-embiid",
-    "jalen-brunson",
-    "karl-anthony-towns"
-   ]
-  },
-  {
-   "id": "eb11172cb0efe53c",
-   "title": "名嘴夏普：文班&恩比德太沉迷于投三分 NBA内线只有约基奇不这样",
-   "url": "https://news.zhibo8.com/nba/2026-10-21/6ad8a971aeae4native.htm",
-   "source": "直播吧",
-   "ts": "2026-10-21T00:00:00+08:00",
-   "precision": "day",
-   "first_seen": "2026-10-22T00:03:49+08:00",
-   "teams": [],
-   "players": [
-    "nikola-jokic",
-    "joel-embiid",
-    "victor-wembanyama",
-    "shaedon-sharpe"
-   ]
-  },
-  {
-   "id": "5e5571def7e96cc3",
-   "title": "揭幕战红黑榜：全能老詹助飞76人&乔治真大腿！文班&塔图姆辣眼睛",
-   "url": "https://news.zhibo8.com/nba/2026-10-21/6ad8555662ecbnative.htm",
-   "source": "直播吧",
-   "ts": "2026-10-21T00:00:00+08:00",
-   "precision": "day",
-   "first_seen": "2026-10-22T00:03:49+08:00",
-   "teams": [
-    "76ers"
-   ],
-   "players": [
-    "jayson-tatum",
-    "lebron-james",
-    "paul-george",
-    "victor-wembanyama"
-   ]
-  },
-  {
-   "id": "62620a0a7ddfa73b",
-   "title": "媒体人：热火将迎最强版本的字母哥 复刻詹姆斯12-13赛季的表现",
-   "url": "https://news.zhibo8.com/nba/2026-10-21/6ad89f9c9d0e4native.htm",
-   "source": "直播吧",
-   "ts": "2026-10-21T00:00:00+08:00",
-   "precision": "day",
-   "first_seen": "2026-10-22T00:03:49+08:00",
-   "teams": [
-    "heat"
-   ],
-   "players": [
-    "lebron-james",
-    "giannis"
-   ]
-  },
-  {
-   "id": "686309f2d38366ec",
-   "title": "费城拿到了想要的东西",
-   "url": "https://news.zhibo8.com/nba/2026-10-21/6ad89ad497561native.htm",
-   "source": "直播吧",
-   "ts": "2026-10-21T00:00:00+08:00",
-   "precision": "day",
-   "first_seen": "2026-10-22T00:03:49+08:00",
-   "teams": [
-    "76ers"
-   ],
-   "players": []
-  },
-  {
-   "id": "ceb530da866cb889",
-   "title": "解说：老詹首秀掀翻卫冕冠军 我预测76人总冠军&这下含金量直接+1",
-   "url": "https://news.zhibo8.com/nba/2026-10-21/6ad89ab699603native.htm",
-   "source": "直播吧",
-   "ts": "2026-10-21T00:00:00+08:00",
-   "precision": "day",
-   "first_seen": "2026-10-22T00:03:49+08:00",
-   "teams": [
-    "76ers"
-   ],
-   "players": [
-    "lebron-james"
-   ]
-  },
-  {
-   "id": "c5c571dd34cbf5b1",
-   "title": "解说：今天的詹姆斯如万金油般帮助球队 他更多地充当组织者角色",
-   "url": "https://news.zhibo8.com/nba/2026-10-21/6ad88f2caa588native.htm",
-   "source": "直播吧",
-   "ts": "2026-10-21T00:00:00+08:00",
-   "precision": "day",
-   "first_seen": "2026-10-22T00:03:49+08:00",
-   "teams": [],
-   "players": [
-    "lebron-james"
-   ]
-  },
-  {
-   "id": "ec7e88ade9ee0196",
-   "title": "密不透风！76人首发在场时防守效率65.7 尼克斯真实命中率仅35.7%",
-   "url": "https://news.zhibo8.com/nba/2026-10-21/6ad87f8c0001fnative.htm",
-   "source": "直播吧",
-   "ts": "2026-10-21T00:00:00+08:00",
-   "precision": "day",
-   "first_seen": "2026-10-22T00:03:49+08:00",
-   "teams": [
-    "knicks",
-    "76ers"
-   ],
-   "players": []
-  },
-  {
-   "id": "00afcc3f8311dabf",
-   "title": "排面拉满！东契奇刊登整版广告致湖密：倾尽所有冲冠！绝不懈怠！",
-   "url": "https://news.zhibo8.com/nba/2026-10-21/6ad8cdac760b7native.htm",
-   "source": "直播吧",
-   "ts": "2026-10-21T00:00:00+08:00",
-   "precision": "day",
-   "first_seen": "2026-10-22T00:03:49+08:00",
-   "teams": [],
-   "players": [
-    "luka-doncic"
-   ]
-  },
-  {
-   "id": "8750764422745989",
-   "title": "明日揭幕战勇士！湖人官推晒紫金油画造势：湖人篮球 开整啦！",
-   "url": "https://news.zhibo8.com/nba/2026-10-21/6ad8c5c45fd85native.htm",
-   "source": "直播吧",
-   "ts": "2026-10-21T00:00:00+08:00",
-   "precision": "day",
-   "first_seen": "2026-10-22T00:03:49+08:00",
-   "teams": [
-    "lakers",
-    "warriors"
-   ],
-   "players": []
-  },
-  {
-   "id": "c430402c768ae9ba",
-   "title": "里夫斯：湖人全员健康时几乎没一起打过比赛 必须在磨合中争胜",
-   "url": "https://news.zhibo8.com/nba/2026-10-21/6ad8bbf654fffnative.htm",
-   "source": "直播吧",
-   "ts": "2026-10-21T00:00:00+08:00",
-   "precision": "day",
-   "first_seen": "2026-10-22T00:03:49+08:00",
-   "teams": [
-    "lakers"
-   ],
-   "players": [
-    "austin-reaves"
-   ]
-  },
-  {
-   "id": "dab1514e4a20db56",
-   "title": "雷迪克：八村塁成长为联盟顶级射手 是我最喜欢执教的球员之一",
-   "url": "https://news.zhibo8.com/nba/2026-10-21/6ad8b88972aa5native.htm",
-   "source": "直播吧",
-   "ts": "2026-10-21T00:00:00+08:00",
-   "precision": "day",
-   "first_seen": "2026-10-22T00:03:49+08:00",
-   "teams": [],
-   "players": [
-    "rui-hachimura",
-    "gradey-dick"
-   ]
-  },
-  {
-   "id": "45e1212bdb258e96",
-   "title": "雷迪克谈凯斯勒：他有望达到全明星级别 但需要时间适应新的角色",
-   "url": "https://news.zhibo8.com/nba/2026-10-21/6ad8b889c6613native.htm",
-   "source": "直播吧",
-   "ts": "2026-10-21T00:00:00+08:00",
-   "precision": "day",
-   "first_seen": "2026-10-22T00:03:49+08:00",
-   "teams": [],
-   "players": [
-    "walker-kessler",
-    "gradey-dick"
-   ]
-  },
-  {
-   "id": "5837ea56f46892df",
-   "title": "雷迪克：卢尼是高球商冠军老将 他懂和年轻人建立信任再指导他们",
-   "url": "https://news.zhibo8.com/nba/2026-10-21/6ad8b88a4104enative.htm",
-   "source": "直播吧",
-   "ts": "2026-10-21T00:00:00+08:00",
-   "precision": "day",
-   "first_seen": "2026-10-22T00:03:49+08:00",
-   "teams": [],
-   "players": [
-    "gradey-dick"
-   ]
-  },
-  {
-   "id": "e62c2970e954f5bc",
-   "title": "雷迪克：湖人已完成季前备战计划 对球队目前的准备情况感到满意",
-   "url": "https://news.zhibo8.com/nba/2026-10-21/6ad8b88adbc36native.htm",
-   "source": "直播吧",
-   "ts": "2026-10-21T00:00:00+08:00",
-   "precision": "day",
-   "first_seen": "2026-10-22T00:03:49+08:00",
-   "teams": [
-    "lakers"
-   ],
-   "players": [
-    "gradey-dick"
-   ]
-  },
-  {
-   "id": "8acb22b649733f87",
-   "title": "塔图姆：科比是我爱上篮球的原因 他没有B计划我也从没想过退路",
-   "url": "https://news.zhibo8.com/nba/2026-10-21/6ad8b5899c198native.htm",
-   "source": "直播吧",
-   "ts": "2026-10-21T00:00:00+08:00",
-   "precision": "day",
-   "first_seen": "2026-10-22T00:03:49+08:00",
-   "teams": [],
-   "players": [
-    "jayson-tatum",
-    "kobe-bryant"
-   ]
-  },
-  {
-   "id": "e4d918819c5e4fd3",
-   "title": "NBA彩经：火箭轻取独行侠 湖人力擒勇士 开拓者射落太阳",
-   "url": "https://news.zhibo8.com/nba/2026-10-21/6ad89be929ecbnative.htm",
-   "source": "直播吧",
-   "ts": "2026-10-21T00:00:00+08:00",
-   "precision": "day",
-   "first_seen": "2026-10-22T00:03:49+08:00",
-   "teams": [
-    "mavericks",
-    "trail-blazers",
-    "lakers",
-    "warriors",
-    "suns",
-    "rockets"
-   ],
-   "players": []
-  },
-  {
-   "id": "e9c1d0aba8cc873d",
-   "title": "阿里纳斯：科比若还在肯定会同意女儿当模特 他支持孩子做任何事",
-   "url": "https://news.zhibo8.com/nba/2026-10-21/6ad88012752c3native.htm",
-   "source": "直播吧",
-   "ts": "2026-10-21T00:00:00+08:00",
-   "precision": "day",
-   "first_seen": "2026-10-22T00:03:49+08:00",
-   "teams": [],
-   "players": [
-    "gilbert-arenas",
-    "kobe-bryant"
-   ]
-  },
-  {
-   "id": "76fcc72126fd2770",
-   "title": "尼克·杨：会有很多人追娜塔莉亚 她的孩子有科比基因肯定不得了",
-   "url": "https://news.zhibo8.com/nba/2026-10-21/6ad87e12d75b6native.htm",
-   "source": "直播吧",
-   "ts": "2026-10-21T00:00:00+08:00",
-   "precision": "day",
-   "first_seen": "2026-10-22T00:03:49+08:00",
-   "teams": [],
-   "players": [
-    "kobe-bryant"
-   ]
-  },
-  {
-   "id": "90d4ded3d64c7548",
-   "title": "科尔谈利拉德重返开拓者：看他穿雄鹿球衣总觉得不太对劲",
-   "url": "https://news.zhibo8.com/nba/2026-10-21/6ad8ddb626a23native.htm",
-   "source": "直播吧",
-   "ts": "2026-10-21T00:00:00+08:00",
-   "precision": "day",
-   "first_seen": "2026-10-22T00:03:49+08:00",
-   "teams": [
-    "trail-blazers",
-    "bucks"
-   ],
-   "players": [
-    "damian-lillard"
-   ]
-  },
-  {
-   "id": "ccbd1685e911a163",
-   "title": "追梦：威少年轻时太狂了但又太强 他的黑子们一直在等他下滑",
-   "url": "https://news.zhibo8.com/nba/2026-10-21/6ad8ba944232enative.htm",
-   "source": "直播吧",
-   "ts": "2026-10-21T00:00:00+08:00",
-   "precision": "day",
-   "first_seen": "2026-10-22T00:03:49+08:00",
-   "teams": [],
-   "players": [
-    "russell-westbrook",
-    "draymond-green"
-   ]
-  },
-  {
-   "id": "74609987721447dc",
-   "title": "追梦：我为西蒙斯感到心痛 墙倒众人推去攻击他实在太容易了",
-   "url": "https://news.zhibo8.com/nba/2026-10-21/6ad8b98b46c0bnative.htm",
-   "source": "直播吧",
-   "ts": "2026-10-21T00:00:00+08:00",
-   "precision": "day",
-   "first_seen": "2026-10-22T00:03:49+08:00",
-   "teams": [],
-   "players": [
-    "draymond-green"
-   ]
-  },
-  {
-   "id": "4ecb07a56cd4f883",
-   "title": "追梦：我绝不会胡乱抛出错误观点给黑子递刀子 他们太想看我出丑",
-   "url": "https://news.zhibo8.com/nba/2026-10-21/6ad8b88ed49dcnative.htm",
-   "source": "直播吧",
-   "ts": "2026-10-21T00:00:00+08:00",
-   "precision": "day",
-   "first_seen": "2026-10-22T00:03:49+08:00",
-   "teams": [],
-   "players": [
-    "draymond-green"
-   ]
-  },
-  {
-   "id": "8d5e6c6f6cca6f59",
-   "title": "口才堪比徐静雨！追梦：刚开始录播客时完全不准备 想到啥就说啥",
-   "url": "https://news.zhibo8.com/nba/2026-10-21/6ad8b6cbd8559native.htm",
-   "source": "直播吧",
-   "ts": "2026-10-21T00:00:00+08:00",
-   "precision": "day",
-   "first_seen": "2026-10-22T00:03:49+08:00",
-   "teams": [],
-   "players": [
-    "draymond-green"
-   ]
-  },
-  {
-   "id": "a7b514dfeec66432",
-   "title": "追梦：MVP我选布伦森 他感觉自己即使夺冠了还是得不到尊重",
-   "url": "https://news.zhibo8.com/nba/2026-10-21/6ad8b51b6287cnative.htm",
-   "source": "直播吧",
-   "ts": "2026-10-21T00:00:00+08:00",
-   "precision": "day",
-   "first_seen": "2026-10-22T00:03:49+08:00",
-   "teams": [],
-   "players": [
-    "jalen-brunson",
-    "draymond-green"
-   ]
-  },
-  {
-   "id": "fe519a26113e4a56",
-   "title": "追梦：文班是年度反派 他正在被全网黑 人们说得他像史上最脏球员",
-   "url": "https://news.zhibo8.com/nba/2026-10-21/6ad8b304871b7native.htm",
-   "source": "直播吧",
-   "ts": "2026-10-21T00:00:00+08:00",
-   "precision": "day",
-   "first_seen": "2026-10-22T00:03:49+08:00",
-   "teams": [],
-   "players": [
-    "victor-wembanyama",
-    "draymond-green"
-   ]
-  },
-  {
-   "id": "798baa3d66a3c3a2",
-   "title": "追梦：没人觉得我们能进季后赛 但真进了季后赛没人想碰到我们",
-   "url": "https://news.zhibo8.com/nba/2026-10-21/6ad8b15f8659bnative.htm",
-   "source": "直播吧",
-   "ts": "2026-10-21T00:00:00+08:00",
-   "precision": "day",
-   "first_seen": "2026-10-22T00:03:49+08:00",
-   "teams": [],
-   "players": [
-    "draymond-green"
-   ]
-  },
-  {
-   "id": "ab0f79ee095a9d50",
-   "title": "追梦：科尔重新思考了整个进攻体系 我预测他将成为年度最佳教练",
-   "url": "https://news.zhibo8.com/nba/2026-10-21/6ad8b0a05c1b5native.htm",
-   "source": "直播吧",
-   "ts": "2026-10-21T00:00:00+08:00",
-   "precision": "day",
-   "first_seen": "2026-10-22T00:03:49+08:00",
-   "teams": [],
-   "players": [
-    "draymond-green"
-   ]
-  },
-  {
-   "id": "2284828810ff8287",
-   "title": "追梦：黄蜂刚有起色就送走三球会让他们倒退3-4年 他们每次都这样",
-   "url": "https://news.zhibo8.com/nba/2026-10-21/6ad8ae5f04454native.htm",
-   "source": "直播吧",
-   "ts": "2026-10-21T00:00:00+08:00",
-   "precision": "day",
-   "first_seen": "2026-10-22T00:03:49+08:00",
-   "teams": [
-    "hornets"
-   ],
-   "players": [
-    "lamelo-ball",
-    "draymond-green"
-   ]
-  },
-  {
-   "id": "7dbf1a6948f32256",
-   "title": "勇士官推晒库里卡通图：再睡一晚新赛季就来了 晚安安！",
-   "url": "https://news.zhibo8.com/nba/2026-10-21/6ad88d418562bnative.htm",
-   "source": "直播吧",
-   "ts": "2026-10-21T00:00:00+08:00",
-   "precision": "day",
-   "first_seen": "2026-10-22T00:03:49+08:00",
-   "teams": [
-    "warriors"
-   ],
-   "players": [
-    "stephen-curry"
-   ]
-  },
-  {
-   "id": "d39d7882ee7bc140",
-   "title": "10月21日篮坛动态：新科状元无缘奇才新赛季首战",
-   "url": "https://news.zhibo8.com/nba/2026-10-21/6ad87e2101803native.htm",
-   "source": "直播吧",
-   "ts": "2026-10-21T00:00:00+08:00",
-   "precision": "day",
-   "first_seen": "2026-10-22T00:03:49+08:00",
-   "teams": [
-    "wizards"
-   ],
-   "players": []
-  },
-  {
-   "id": "e3696c19d518d3b8",
-   "title": "利拉德谈迈尔斯·伦纳德专程来观战：真正的尊重 他把我当作朋友",
-   "url": "https://news.zhibo8.com/nba/2026-10-21/6ad8dd003e1banative.htm",
-   "source": "直播吧",
-   "ts": "2026-10-21T00:00:00+08:00",
-   "precision": "day",
-   "first_seen": "2026-10-22T00:03:49+08:00",
-   "teams": [],
-   "players": [
-    "kawhi-leonard",
-    "damian-lillard"
-   ]
-  },
-  {
-   "id": "9261cd9957ebb7a1",
-   "title": "迈尔斯·伦纳德谈2021年辱犹事件：犯错让我成为更好的自己",
-   "url": "https://news.zhibo8.com/nba/2026-10-21/6ad8d9dc1652dnative.htm",
-   "source": "直播吧",
-   "ts": "2026-10-21T00:00:00+08:00",
-   "precision": "day",
-   "first_seen": "2026-10-22T00:03:49+08:00",
-   "teams": [],
-   "players": [
-    "kawhi-leonard"
-   ]
-  },
-  {
-   "id": "755e541d2dd3a9be",
-   "title": "迈尔斯·伦纳德：曾因开拓者球迷嘘声痛哭 不知他们是否还记得我",
-   "url": "https://news.zhibo8.com/nba/2026-10-21/6ad8d9dc5cd64native.htm",
-   "source": "直播吧",
-   "ts": "2026-10-21T00:00:00+08:00",
-   "precision": "day",
-   "first_seen": "2026-10-22T00:03:49+08:00",
-   "teams": [
-    "trail-blazers"
-   ],
-   "players": [
-    "kawhi-leonard"
-   ]
-  },
-  {
-   "id": "2e1806e48f008889",
-   "title": "利拉德：我当初就不该离开开拓者 如今我回来了而且很健康",
-   "url": "https://news.zhibo8.com/nba/2026-10-21/6ad8d9dc9cbb5native.htm",
-   "source": "直播吧",
-   "ts": "2026-10-21T00:00:00+08:00",
-   "precision": "day",
-   "first_seen": "2026-10-22T00:03:49+08:00",
-   "teams": [
-    "trail-blazers"
-   ],
-   "players": [
-    "damian-lillard"
-   ]
-  },
-  {
-   "id": "fa2c5c4d7cf650f3",
-   "title": "迈尔斯·伦纳德专程飞赴波特兰：好友利拉德回归首秀 我必须到场",
-   "url": "https://news.zhibo8.com/nba/2026-10-21/6ad8d9dd300d4native.htm",
-   "source": "直播吧",
-   "ts": "2026-10-21T00:00:00+08:00",
-   "precision": "day",
-   "first_seen": "2026-10-22T00:03:49+08:00",
-   "teams": [],
-   "players": [
-    "kawhi-leonard",
-    "damian-lillard"
-   ]
-  },
-  {
-   "id": "772e3a0172e06741",
-   "title": "耐克改造波特兰地标性雄鹿霓虹灯广告牌 迎接莫兰特开拓者首秀",
-   "url": "https://news.zhibo8.com/nba/2026-10-21/6ad8d974abe5dnative.htm",
-   "source": "直播吧",
-   "ts": "2026-10-21T00:00:00+08:00",
-   "precision": "day",
-   "first_seen": "2026-10-22T00:03:49+08:00",
-   "teams": [
-    "trail-blazers",
-    "bucks"
-   ],
-   "players": [
-    "ja-morant"
-   ]
-  },
-  {
-   "id": "87376ded94222971",
-   "title": "Spears：开拓者后场人员拥挤 莫兰特预计会替补出战",
-   "url": "https://news.zhibo8.com/nba/2026-10-21/6ad8b39aa92f4native.htm",
-   "source": "直播吧",
-   "ts": "2026-10-21T00:00:00+08:00",
-   "precision": "day",
-   "first_seen": "2026-10-22T00:03:49+08:00",
-   "teams": [
-    "trail-blazers"
-   ],
-   "players": [
-    "ja-morant"
-   ]
-  },
-  {
-   "id": "a5998f031434b047",
-   "title": "诺里打趣：这赛季我估计得强调五百多次 减少失误&保护防守篮板",
-   "url": "https://news.zhibo8.com/nba/2026-10-21/6ad8962b78eaenative.htm",
-   "source": "直播吧",
-   "ts": "2026-10-21T00:00:00+08:00",
-   "precision": "day",
-   "first_seen": "2026-10-22T00:03:49+08:00",
-   "teams": [],
-   "players": []
-  },
-  {
-   "id": "c4c57aab36e65483",
-   "title": "诺里谈亨德森：我希望开拓者用顶薪留住他 他非常出色",
-   "url": "https://news.zhibo8.com/nba/2026-10-21/6ad89584ed807native.htm",
-   "source": "直播吧",
-   "ts": "2026-10-21T00:00:00+08:00",
-   "precision": "day",
-   "first_seen": "2026-10-22T00:03:49+08:00",
-   "teams": [
-    "trail-blazers"
-   ],
-   "players": [
-    "scoot-henderson"
-   ]
-  },
-  {
-   "id": "422833755a00452a",
-   "title": "诺里谈揭幕战对手太阳：他们球风硬朗 西部挑战重重",
-   "url": "https://news.zhibo8.com/nba/2026-10-21/6ad89440056acnative.htm",
-   "source": "直播吧",
-   "ts": "2026-10-21T00:00:00+08:00",
-   "precision": "day",
-   "first_seen": "2026-10-22T00:03:49+08:00",
-   "teams": [
-    "suns"
-   ],
-   "players": []
-  },
-  {
-   "id": "ec412e184a9a2af8",
-   "title": "亨德森谈未获提前续约：不会感到压力倍增 我一直顶着压力打球",
-   "url": "https://news.zhibo8.com/nba/2026-10-21/6ad8934f1981enative.htm",
-   "source": "直播吧",
-   "ts": "2026-10-21T00:00:00+08:00",
-   "precision": "day",
-   "first_seen": "2026-10-22T00:03:49+08:00",
-   "teams": [],
-   "players": [
-    "scoot-henderson"
-   ]
-  },
-  {
-   "id": "10b602a6c85774a7",
-   "title": "阿里纳斯：新赛季MVP竞争初期仍是SGA和约基奇 文班需要奋起直追",
-   "url": "https://news.zhibo8.com/nba/2026-10-21/6ad8bbfa8e667native.htm",
-   "source": "直播吧",
-   "ts": "2026-10-21T00:00:00+08:00",
-   "precision": "day",
-   "first_seen": "2026-10-22T00:03:49+08:00",
-   "teams": [],
-   "players": [
-    "gilbert-arenas",
-    "nikola-jokic",
-    "shai-gilgeous-alexander",
-    "victor-wembanyama"
-   ]
-  },
-  {
-   "id": "6b4db16f919b6d62",
-   "title": "媒体人：雷霆选马拉就是为了限制文班 下次交手文班会教他做人",
-   "url": "https://news.zhibo8.com/nba/2026-10-21/6ad8c345661danative.htm",
-   "source": "直播吧",
-   "ts": "2026-10-21T00:00:00+08:00",
-   "precision": "day",
-   "first_seen": "2026-10-22T00:03:49+08:00",
-   "teams": [
-    "thunder"
-   ],
-   "players": [
-    "victor-wembanyama"
-   ]
-  },
-  {
-   "id": "8ba98168e593abc7",
-   "title": "阿里纳斯：雷霆小阵容有明显弱点 缺乏运动能力容易被对手爆篮板",
-   "url": "https://news.zhibo8.com/nba/2026-10-21/6ad8bbfa42e63native.htm",
-   "source": "直播吧",
-   "ts": "2026-10-21T00:00:00+08:00",
-   "precision": "day",
-   "first_seen": "2026-10-22T00:03:49+08:00",
-   "teams": [
-    "thunder"
-   ],
-   "players": [
-    "gilbert-arenas"
-   ]
-  },
-  {
-   "id": "4b32e25098126dec",
-   "title": "杰伦威：雷霆经历过很多硬仗 多年来建立的信任让球队更强大",
-   "url": "https://news.zhibo8.com/nba/2026-10-21/6ad8bbf74ea3enative.htm",
-   "source": "直播吧",
-   "ts": "2026-10-21T00:00:00+08:00",
-   "precision": "day",
-   "first_seen": "2026-10-22T00:03:49+08:00",
-   "teams": [
-    "thunder"
-   ],
-   "players": []
-  },
-  {
-   "id": "d19b5f6a07743b0a",
-   "title": "杰伦威：防守是雷霆一直以来的立足之本 今天帮助球队赢下比赛",
-   "url": "https://news.zhibo8.com/nba/2026-10-21/6ad8bbf6af623native.htm",
-   "source": "直播吧",
-   "ts": "2026-10-21T00:00:00+08:00",
-   "precision": "day",
-   "first_seen": "2026-10-22T00:03:49+08:00",
-   "teams": [
-    "thunder"
-   ],
-   "players": []
-  },
-  {
-   "id": "afa0303c49b520e7",
-   "title": "单打乔：近四届总冠军打四强赛 我选25年雷霆和26年尼克斯进决赛",
-   "url": "https://news.zhibo8.com/nba/2026-10-21/6ad8ba71f3928native.htm",
-   "source": "直播吧",
-   "ts": "2026-10-21T00:00:00+08:00",
-   "precision": "day",
-   "first_seen": "2026-10-22T00:03:49+08:00",
-   "teams": [
-    "knicks",
-    "thunder"
-   ],
-   "players": []
-  },
-  {
-   "id": "6cf2a08b4e784947",
-   "title": "亚历山大：上赛季马刺淘汰了我们 今天我们都想拿出最佳状态",
-   "url": "https://news.zhibo8.com/nba/2026-10-21/6ad8ac7982d42native.htm",
-   "source": "直播吧",
-   "ts": "2026-10-21T00:00:00+08:00",
-   "precision": "day",
-   "first_seen": "2026-10-22T00:03:49+08:00",
-   "teams": [
-    "spurs"
-   ],
-   "players": [
-    "shai-gilgeous-alexander"
-   ]
-  },
-  {
-   "id": "405b7f63dd940298",
-   "title": "MVP最大热门迷失！文班13投仅1中、SGA却爆砍32分~你还看好他吗？",
-   "url": "https://news.zhibo8.com/nba/2026-10-21/6ad888aa1107fnative.htm",
-   "source": "直播吧",
-   "ts": "2026-10-21T00:00:00+08:00",
-   "precision": "day",
-   "first_seen": "2026-10-22T00:03:49+08:00",
-   "teams": [],
-   "players": [
-    "shai-gilgeous-alexander",
-    "victor-wembanyama"
-   ]
-  },
-  {
-   "id": "8492c247da15db86",
-   "title": "名嘴夏普：亚历山大是中距离大师 麦凯恩总能命中关键球",
-   "url": "https://news.zhibo8.com/nba/2026-10-21/6ad8a770a821fnative.htm",
-   "source": "直播吧",
-   "ts": "2026-10-21T00:00:00+08:00",
-   "precision": "day",
-   "first_seen": "2026-10-22T00:03:49+08:00",
-   "teams": [],
-   "players": [
-    "shai-gilgeous-alexander",
-    "shaedon-sharpe"
-   ]
-  },
-  {
-   "id": "a16f54767db04c93",
-   "title": "乔·约翰逊：我很喜欢马拉 他篮球智商极高能给文班制造麻烦",
-   "url": "https://news.zhibo8.com/nba/2026-10-21/6ad8a6321f177native.htm",
-   "source": "直播吧",
-   "ts": "2026-10-21T00:00:00+08:00",
-   "precision": "day",
-   "first_seen": "2026-10-22T00:03:49+08:00",
-   "teams": [],
-   "players": [
-    "victor-wembanyama"
-   ]
-  },
-  {
-   "id": "174767ff342a5df6",
-   "title": "乔·约翰逊：SGA身边悍将众多 文班一下场其他人根本撑不住局面",
-   "url": "https://news.zhibo8.com/nba/2026-10-21/6ad899a655d8dnative.htm",
-   "source": "直播吧",
-   "ts": "2026-10-21T00:00:00+08:00",
-   "precision": "day",
-   "first_seen": "2026-10-22T00:03:49+08:00",
-   "teams": [],
-   "players": [
-    "shai-gilgeous-alexander",
-    "victor-wembanyama"
-   ]
-  },
-  {
-   "id": "895524dec1d65592",
-   "title": "戴格诺特盛赞亚历山大：他为人谦逊 品格高尚 与普雷斯蒂双向奔赴",
-   "url": "https://news.zhibo8.com/nba/2026-10-21/6ad8920bbca33native.htm",
-   "source": "直播吧",
-   "ts": "2026-10-21T00:00:00+08:00",
-   "precision": "day",
-   "first_seen": "2026-10-22T00:03:49+08:00",
-   "teams": [],
-   "players": [
-    "shai-gilgeous-alexander"
-   ]
-  },
-  {
-   "id": "6a3cac3fd565f080",
-   "title": "雷霆主帅：我们对马拉的信赖会与日俱增 他在场上影响力十分显著",
-   "url": "https://news.zhibo8.com/nba/2026-10-21/6ad88eb100867native.htm",
-   "source": "直播吧",
-   "ts": "2026-10-21T00:00:00+08:00",
-   "precision": "day",
-   "first_seen": "2026-10-22T00:03:49+08:00",
-   "teams": [
-    "thunder"
-   ],
-   "players": []
-  },
-  {
-   "id": "2d747850d8d3aa4c",
-   "title": "CBA常规赛第2轮最佳阵容：张镇麟/胡金秋/迪亚洛/史密斯和景菡一",
-   "url": "https://news.zhibo8.com/nba/2026-10-21/6ad8d1aa4d893native.htm",
-   "source": "直播吧",
-   "ts": "2026-10-21T00:00:00+08:00",
-   "precision": "day",
-   "first_seen": "2026-10-22T00:03:49+08:00",
-   "teams": [],
-   "players": []
-  },
-  {
-   "id": "522a0e61be72b763",
-   "title": "山东女篮官宣：艾米・奥康沃完成签约 正式加盟山东高速女篮",
-   "url": "https://news.zhibo8.com/nba/2026-10-21/6ad8cfdf5b06cnative.htm",
-   "source": "直播吧",
-   "ts": "2026-10-21T00:00:00+08:00",
-   "precision": "day",
-   "first_seen": "2026-10-22T00:03:49+08:00",
-   "teams": [],
-   "players": []
-  },
-  {
-   "id": "3ad9ff7332d496c7",
-   "title": "张子宇：感谢大家像家人般的关照 想吃的美食很多 但在控制体重",
-   "url": "https://news.zhibo8.com/nba/2026-10-21/6ad8cc61a1356native.htm",
-   "source": "直播吧",
-   "ts": "2026-10-21T00:00:00+08:00",
-   "precision": "day",
-   "first_seen": "2026-10-22T00:03:49+08:00",
-   "teams": [],
-   "players": [
-    "zhang-ziyu"
-   ]
-  },
-  {
-   "id": "a5f0fb37af51a049",
-   "title": "刘维伟：球员的拼劲比上一场要好一些 整体状态还要再调整",
-   "url": "https://news.zhibo8.com/nba/2026-10-21/6ad8cbd8e9e52native.htm",
-   "source": "直播吧",
-   "ts": "2026-10-21T00:00:00+08:00",
-   "precision": "day",
-   "first_seen": "2026-10-22T00:03:49+08:00",
-   "teams": [],
-   "players": []
-  },
-  {
-   "id": "1ae2a939117114dc",
-   "title": "多米尼克·琼斯公开自荐：过去48小时我看到8支球队需要我",
-   "url": "https://news.zhibo8.com/nba/2026-10-21/6ad8c34447d51native.htm",
-   "source": "直播吧",
-   "ts": "2026-10-21T00:00:00+08:00",
-   "precision": "day",
-   "first_seen": "2026-10-22T00:03:49+08:00",
-   "teams": [],
-   "players": []
-  },
-  {
-   "id": "493a42e516524a66",
-   "title": "逆转希望破灭！青岛男篮落后2分 约克干拔三分时球脱手出界失误",
-   "url": "https://news.zhibo8.com/nba/2026-10-21/6ad8c374d75b8native.htm",
-   "source": "直播吧",
-   "ts": "2026-10-21T00:00:00+08:00",
-   "precision": "day",
-   "first_seen": "2026-10-22T00:03:49+08:00",
-   "teams": [],
-   "players": []
-  },
-  {
-   "id": "a1817fbe038e05f3",
-   "title": "直播吧x咪咕【吧友评选】CBA第二轮最佳球员",
-   "url": "https://news.zhibo8.com/nba/2026-10-21/6ad8ac2b16e74native.htm",
-   "source": "直播吧",
-   "ts": "2026-10-21T00:00:00+08:00",
-   "precision": "day",
-   "first_seen": "2026-10-22T00:03:49+08:00",
-   "teams": [],
-   "players": []
-  },
-  {
-   "id": "3b879823c8dd4df4",
-   "title": "CBA第2轮综述：北京轻取广东 四川2连胜 上海胜北控 辽宁险胜青岛",
-   "url": "https://news.zhibo8.com/nba/2026-10-21/6ad8a9904c72bnative.htm",
-   "source": "直播吧",
-   "ts": "2026-10-21T00:00:00+08:00",
-   "precision": "day",
-   "first_seen": "2026-10-22T00:03:49+08:00",
-   "teams": [],
-   "players": []
-  },
-  {
-   "id": "8357fbb6dac99989",
-   "title": "正负值+14！库珀19中8拿全场最高27分外加4板7助 三分9中4",
-   "url": "https://news.zhibo8.com/nba/2026-10-21/6ad8c2143dea1native.htm",
-   "source": "直播吧",
-   "ts": "2026-10-21T00:00:00+08:00",
-   "precision": "day",
-   "first_seen": "2026-10-22T00:03:49+08:00",
-   "teams": [],
-   "players": []
-  },
-  {
-   "id": "b91bb8208730bf65",
-   "title": "强势反弹难救主！段昂君出战33分钟贡献19分4断2帽 罚球10中8",
-   "url": "https://news.zhibo8.com/nba/2026-10-21/6ad8be18ecf3anative.htm",
-   "source": "直播吧",
-   "ts": "2026-10-21T00:00:00+08:00",
-   "precision": "day",
-   "first_seen": "2026-10-22T00:03:49+08:00",
-   "teams": [],
-   "players": []
-  },
-  {
-   "id": "51c04dbb54d0fb77",
-   "title": "犯满离场！赵继伟替补7中3拿到8分2板2助 3次失误",
-   "url": "https://news.zhibo8.com/nba/2026-10-21/6ad8be33f0da0native.htm",
-   "source": "直播吧",
-   "ts": "2026-10-21T00:00:00+08:00",
-   "precision": "day",
-   "first_seen": "2026-10-22T00:03:49+08:00",
-   "teams": [],
-   "players": []
-  },
-  {
-   "id": "44901932732e3e84",
-   "title": "火箭官方晒新赛季主场布置：全场座椅摆满助威用品 静待球迷入场",
-   "url": "https://news.zhibo8.com/nba/2026-10-21/6ad8de2b9264anative.htm",
-   "source": "直播吧",
-   "ts": "2026-10-21T00:00:00+08:00",
-   "precision": "day",
-   "first_seen": "2026-10-22T00:03:49+08:00",
-   "teams": [
-    "rockets"
-   ],
-   "players": []
-  },
-  {
-   "id": "f254ec83242cd508",
-   "title": "明天火箭迎战独行侠 亚当斯&菲利普斯出战成疑",
-   "url": "https://news.zhibo8.com/nba/2026-10-21/6ad8c9de56d88native.htm",
-   "source": "直播吧",
-   "ts": "2026-10-21T00:00:00+08:00",
-   "precision": "day",
-   "first_seen": "2026-10-22T00:03:49+08:00",
-   "teams": [
-    "mavericks",
-    "rockets"
-   ],
-   "players": []
-  },
-  {
-   "id": "f9a4b5adb372d4c0",
-   "title": "太阳老板：回应杜兰特是因他没看完整视频 砸钱建队确实错了",
-   "url": "https://news.zhibo8.com/nba/2026-10-21/6ad8c11f77c69native.htm",
-   "source": "直播吧",
-   "ts": "2026-10-21T00:00:00+08:00",
-   "precision": "day",
-   "first_seen": "2026-10-22T00:03:49+08:00",
-   "teams": [
-    "suns"
-   ],
-   "players": [
-    "kevin-durant"
-   ]
-  },
-  {
-   "id": "7c2813adbac1a24b",
-   "title": "欧文：我很期待赛季揭幕战 对阵火箭是很有看点的对决",
-   "url": "https://news.zhibo8.com/nba/2026-10-21/6ad8a3a782c42native.htm",
-   "source": "直播吧",
-   "ts": "2026-10-21T00:00:00+08:00",
-   "precision": "day",
-   "first_seen": "2026-10-22T00:03:49+08:00",
-   "teams": [
-    "rockets"
-   ],
-   "players": [
-    "kyrie-irving"
-   ]
-  },
-  {
-   "id": "f87df3de90b06b56",
-   "title": "阿里纳斯批马刺：输总决赛后完全没看到进步 文班夏天到底练了啥",
-   "url": "https://news.zhibo8.com/nba/2026-10-21/6ad8c344d8b6cnative.htm",
-   "source": "直播吧",
-   "ts": "2026-10-21T00:00:00+08:00",
-   "precision": "day",
-   "first_seen": "2026-10-22T00:03:49+08:00",
-   "teams": [
-    "spurs"
-   ],
-   "players": [
-    "gilbert-arenas",
-    "victor-wembanyama"
-   ]
-  },
-  {
-   "id": "89113a06075f3f5a",
-   "title": "阿里纳斯：马刺即便退步也不奇怪 从黑马变争冠球队压力完全不同",
-   "url": "https://news.zhibo8.com/nba/2026-10-21/6ad8c341d9222native.htm",
-   "source": "直播吧",
-   "ts": "2026-10-21T00:00:00+08:00",
-   "precision": "day",
-   "first_seen": "2026-10-22T00:03:49+08:00",
-   "teams": [
-    "spurs"
-   ],
-   "players": [
-    "gilbert-arenas"
-   ]
-  },
-  {
-   "id": "19b8fed557f823b9",
-   "title": "阿里纳斯：哈珀应该负责控球 卡斯尔更适合打二号位",
-   "url": "https://news.zhibo8.com/nba/2026-10-21/6ad8bbf93c1f3native.htm",
-   "source": "直播吧",
-   "ts": "2026-10-21T00:00:00+08:00",
-   "precision": "day",
-   "first_seen": "2026-10-22T00:03:49+08:00",
-   "teams": [],
-   "players": [
-    "gilbert-arenas",
-    "stephon-castle"
-   ]
-  },
-  {
-   "id": "7bc7dfd8b83f772f",
-   "title": "阿里纳斯指出文班进攻弱点：右路突破习惯明显 单脚起跳能力不足",
-   "url": "https://news.zhibo8.com/nba/2026-10-21/6ad8bbfa0d9d7native.htm",
-   "source": "直播吧",
-   "ts": "2026-10-21T00:00:00+08:00",
-   "precision": "day",
-   "first_seen": "2026-10-22T00:03:49+08:00",
-   "teams": [],
-   "players": [
-    "gilbert-arenas",
-    "victor-wembanyama"
-   ]
-  },
-  {
-   "id": "d1c7d5861e4dce53",
-   "title": "米奇：我们优秀的球员很多 收官阵容会临场灵活选择",
-   "url": "https://news.zhibo8.com/nba/2026-10-21/6ad8ae01bf80anative.htm",
-   "source": "直播吧",
-   "ts": "2026-10-21T00:00:00+08:00",
-   "precision": "day",
-   "first_seen": "2026-10-22T00:03:49+08:00",
-   "teams": [],
-   "players": []
-  },
-  {
-   "id": "c1d660eaa872e61e",
-   "title": "卡斯尔谈文班亚马手感不佳：我对此毫不担心 他迟早会找回节奏",
-   "url": "https://news.zhibo8.com/nba/2026-10-21/6ad8a14728d9bnative.htm",
-   "source": "直播吧",
-   "ts": "2026-10-21T00:00:00+08:00",
-   "precision": "day",
-   "first_seen": "2026-10-22T00:03:49+08:00",
-   "teams": [],
-   "players": [
-    "victor-wembanyama",
-    "stephon-castle"
-   ]
-  },
-  {
-   "id": "0a1f4048eac2acaf",
-   "title": "名嘴夏普：乔治这状态就该喂球让他砍50分 塔图姆强投太多应交球",
-   "url": "https://news.zhibo8.com/nba/2026-10-21/6ad8bcec1726enative.htm",
-   "source": "直播吧",
-   "ts": "2026-10-21T00:00:00+08:00",
-   "precision": "day",
-   "first_seen": "2026-10-22T00:03:49+08:00",
-   "teams": [],
-   "players": [
-    "jayson-tatum",
-    "paul-george",
-    "shaedon-sharpe"
-   ]
-  },
-  {
-   "id": "7e7841e1812812ed",
-   "title": "乔·约翰逊：乔治的接球投篮是历史级别的 今天他重回巅峰",
-   "url": "https://news.zhibo8.com/nba/2026-10-21/6ad8bba117a5bnative.htm",
-   "source": "直播吧",
-   "ts": "2026-10-21T00:00:00+08:00",
-   "precision": "day",
-   "first_seen": "2026-10-22T00:03:49+08:00",
-   "teams": [],
-   "players": [
-    "paul-george"
-   ]
-  },
-  {
-   "id": "1e46f99f8e92f221",
-   "title": "塔图姆：Tatum 5象征伤愈后新篇章 我还是我但也已经不同",
-   "url": "https://news.zhibo8.com/nba/2026-10-21/6ad8b88b5c438native.htm",
-   "source": "直播吧",
-   "ts": "2026-10-21T00:00:00+08:00",
-   "precision": "day",
-   "first_seen": "2026-10-22T00:03:49+08:00",
-   "teams": [],
-   "players": [
-    "jayson-tatum"
-   ]
-  },
-  {
-   "id": "66c899e72d4a1a86",
-   "title": "塔图姆：看到世界各地球迷穿我的球衣球鞋 进入NBA第9年仍很激动",
-   "url": "https://news.zhibo8.com/nba/2026-10-21/6ad8b88b934fdnative.htm",
-   "source": "直播吧",
-   "ts": "2026-10-21T00:00:00+08:00",
-   "precision": "day",
-   "first_seen": "2026-10-22T00:03:49+08:00",
-   "teams": [],
-   "players": [
-    "jayson-tatum"
-   ]
-  },
-  {
-   "id": "68bb04b1fb9149b8",
-   "title": "乔·约翰逊：米切尔·罗宾逊打不了首发中锋 第四节对手直接砍他",
-   "url": "https://news.zhibo8.com/nba/2026-10-21/6ad8b5fdab3adnative.htm",
-   "source": "直播吧",
-   "ts": "2026-10-21T00:00:00+08:00",
-   "precision": "day",
-   "first_seen": "2026-10-22T00:03:49+08:00",
-   "teams": [],
-   "players": [
-    "mitchell-robinson"
-   ]
-  },
-  {
-   "id": "a68464bf48bd345f",
-   "title": "塔图姆：高中每天5点半起床训练 因为不想有人比我更加努力",
-   "url": "https://news.zhibo8.com/nba/2026-10-21/6ad8b88cc9da3native.htm",
-   "source": "直播吧",
-   "ts": "2026-10-21T00:00:00+08:00",
-   "precision": "day",
-   "first_seen": "2026-10-22T00:03:49+08:00",
-   "teams": [],
-   "players": [
-    "jayson-tatum"
-   ]
-  },
-  {
-   "id": "7eacb5c789e7434b",
-   "title": "塔图姆：乔丹亲自挑选旗下签约球员 21岁得知他认可我时非常震惊",
-   "url": "https://news.zhibo8.com/nba/2026-10-21/6ad8b589d407fnative.htm",
-   "source": "直播吧",
-   "ts": "2026-10-21T00:00:00+08:00",
-   "precision": "day",
-   "first_seen": "2026-10-22T00:03:49+08:00",
-   "teams": [],
-   "players": [
-    "jayson-tatum",
-    "michael-jordan"
-   ]
-  },
-  {
-   "id": "76312e655e6d2011",
-   "title": "塔图姆：家里大概有上千双AJ球鞋 每个月都收到新鞋根本放不下",
-   "url": "https://news.zhibo8.com/nba/2026-10-21/6ad8b58a32b23native.htm",
-   "source": "直播吧",
-   "ts": "2026-10-21T00:00:00+08:00",
-   "precision": "day",
-   "first_seen": "2026-10-22T00:03:49+08:00",
-   "teams": [],
-   "players": [
-    "jayson-tatum"
-   ]
-  },
-  {
-   "id": "b881f0b9375185e4",
-   "title": "欧文：我们要多沟通 争取最好的出手选择 这是篮球的本质",
-   "url": "https://news.zhibo8.com/nba/2026-10-21/6ad8c4cf9e09cnative.htm",
-   "source": "直播吧",
-   "ts": "2026-10-21T00:00:00+08:00",
-   "precision": "day",
-   "first_seen": "2026-10-22T00:03:49+08:00",
-   "teams": [],
-   "players": [
-    "kyrie-irving"
-   ]
-  },
-  {
-   "id": "7980efb070b07565",
-   "title": "带着母亲遗愿战斗12年，交易添头成了队魂",
-   "url": "https://news.zhibo8.com/nba/2026-10-21/6ad8839089772native.htm",
-   "source": "直播吧",
-   "ts": "2026-10-21T00:00:00+08:00",
-   "precision": "day",
-   "first_seen": "2026-10-22T00:03:49+08:00",
-   "teams": [],
-   "players": []
-  },
-  {
-   "id": "f54d2d2ff68ef85c",
-   "title": "名嘴夏普：见过无数次队友打架进医院 从没见过像阿里纳斯式拔枪",
-   "url": "https://news.zhibo8.com/nba/2026-10-21/6ad8be21cb35cnative.htm",
-   "source": "直播吧",
-   "ts": "2026-10-21T00:00:00+08:00",
-   "precision": "day",
-   "first_seen": "2026-10-22T00:03:49+08:00",
-   "teams": [],
-   "players": [
-    "gilbert-arenas",
-    "shaedon-sharpe"
-   ]
-  },
-  {
-   "id": "fcbd47bd9ea86365",
-   "title": "浓眉谈小将：他们敢挑战我 特雷·约翰逊曾说我的表现排不进75大",
-   "url": "https://news.zhibo8.com/nba/2026-10-21/6ad8a463aba1bnative.htm",
-   "source": "直播吧",
-   "ts": "2026-10-21T00:00:00+08:00",
-   "precision": "day",
-   "first_seen": "2026-10-22T00:03:49+08:00",
-   "teams": [],
-   "players": [
-    "anthony-davis"
-   ]
-  },
-  {
-   "id": "911ab499a350f09a",
-   "title": "浓眉谈萨尔：他渴望迎接挑战 且乐于做一些隐形贡献",
-   "url": "https://news.zhibo8.com/nba/2026-10-21/6ad898e0329dbnative.htm",
-   "source": "直播吧",
-   "ts": "2026-10-21T00:00:00+08:00",
-   "precision": "day",
-   "first_seen": "2026-10-22T00:03:49+08:00",
-   "teams": [],
-   "players": [
-    "anthony-davis",
-    "alex-sarr"
-   ]
-  },
-  {
-   "id": "bf1dd00880ade65a",
-   "title": "斯波：全队目标共识清晰 成熟的更衣室氛围是我们的优势",
-   "url": "https://news.zhibo8.com/nba/2026-10-21/6ad8b5524bb69native.htm",
-   "source": "直播吧",
-   "ts": "2026-10-21T00:00:00+08:00",
-   "precision": "day",
-   "first_seen": "2026-10-22T00:03:49+08:00",
-   "teams": [],
-   "players": []
-  },
-  {
-   "id": "df0b19e29dacdf4c",
-   "title": "字母哥：对新环境一切都感到适应 以放松的心态开启新赛季",
-   "url": "https://news.zhibo8.com/nba/2026-10-21/6ad8b0cadb35bnative.htm",
-   "source": "直播吧",
-   "ts": "2026-10-21T00:00:00+08:00",
-   "precision": "day",
-   "first_seen": "2026-10-22T00:03:49+08:00",
-   "teams": [],
-   "players": [
-    "giannis"
-   ]
-  },
-  {
-   "id": "c7cc18845f28d45c",
-   "title": "文胖：新季热火的比赛不容错过 字母哥和热巴能产生恐怖化学反应",
-   "url": "https://news.zhibo8.com/nba/2026-10-21/6ad89b254b2ednative.htm",
-   "source": "直播吧",
-   "ts": "2026-10-21T00:00:00+08:00",
-   "precision": "day",
-   "first_seen": "2026-10-22T00:03:49+08:00",
-   "teams": [
-    "heat"
-   ],
-   "players": [
-    "giannis",
-    "bam-adebayo"
-   ]
-  },
-  {
-   "id": "4843f5b1a5d923ec",
-   "title": "美记：字母哥将在热火恢复自己的统治力 他将重回巅峰",
-   "url": "https://news.zhibo8.com/nba/2026-10-21/6ad897bc88815native.htm",
-   "source": "直播吧",
-   "ts": "2026-10-21T00:00:00+08:00",
-   "precision": "day",
-   "first_seen": "2026-10-22T00:03:49+08:00",
-   "teams": [
-    "heat"
-   ],
-   "players": [
-    "giannis"
-   ]
-  },
-  {
-   "id": "1c291cf573c0dc60",
-   "title": "查德·约翰逊：热火是东部最强 明天他们将打爆森林狼",
-   "url": "https://news.zhibo8.com/nba/2026-10-21/6ad88fb829905native.htm",
-   "source": "直播吧",
-   "ts": "2026-10-21T00:00:00+08:00",
-   "precision": "day",
-   "first_seen": "2026-10-22T00:03:49+08:00",
-   "teams": [
-    "timberwolves",
-    "heat"
-   ],
-   "players": []
-  },
-  {
-   "id": "ea8ab715be9906f2",
-   "title": "阿里纳斯：当年保罗让我感到被轻视 后来我面对他都很有表现欲望",
-   "url": "https://news.zhibo8.com/nba/2026-10-21/6ad8c3419e07fnative.htm",
-   "source": "直播吧",
-   "ts": "2026-10-21T00:00:00+08:00",
-   "precision": "day",
-   "first_seen": "2026-10-22T00:03:49+08:00",
-   "teams": [],
-   "players": [
-    "gilbert-arenas",
-    "chris-paul"
-   ]
-  },
-  {
-   "id": "86c3726138b73c69",
-   "title": "太阳老板：连签双向合同球员我都亲自参与 我不是投资客&真爱篮球",
-   "url": "https://news.zhibo8.com/nba/2026-10-21/6ad8c2b23aa7fnative.htm",
-   "source": "直播吧",
-   "ts": "2026-10-21T00:00:00+08:00",
-   "precision": "day",
-   "first_seen": "2026-10-22T00:03:49+08:00",
-   "teams": [
-    "suns"
-   ],
-   "players": []
-  },
-  {
-   "id": "d294873578dfb6b1",
-   "title": "雄鹿主帅：裁小凯文·波特是个艰难决定 他能在其他地方发光发热",
-   "url": "https://news.zhibo8.com/nba/2026-10-21/6ad89dc70f89cnative.htm",
-   "source": "直播吧",
-   "ts": "2026-10-21T00:00:00+08:00",
-   "precision": "day",
-   "first_seen": "2026-10-22T00:03:49+08:00",
-   "teams": [
-    "bucks"
-   ],
-   "players": []
-  },
-  {
-   "id": "3b0cc8db7e7b883a",
-   "title": "库兹马：雄鹿球员虚心好学 我对球队充满信心",
-   "url": "https://news.zhibo8.com/nba/2026-10-21/6ad89ca78b55cnative.htm",
-   "source": "直播吧",
-   "ts": "2026-10-21T00:00:00+08:00",
-   "precision": "day",
-   "first_seen": "2026-10-22T00:03:49+08:00",
-   "teams": [
-    "bucks"
-   ],
-   "players": [
-    "kyle-kuzma"
-   ]
-  },
-  {
-   "id": "d4f5f6a3057f4802",
-   "title": "队记：明天太阳客战开拓者 肯纳德出战成疑 马威缺阵",
-   "url": "https://news.zhibo8.com/nba/2026-10-21/6ad8b23d13df9native.htm",
-   "source": "直播吧",
-   "ts": "2026-10-21T00:00:00+08:00",
-   "precision": "day",
-   "first_seen": "2026-10-22T00:03:49+08:00",
-   "teams": [
-    "trail-blazers",
-    "suns"
-   ],
-   "players": []
-  },
-  {
-   "id": "656db2460afac4ab",
-   "title": "布克：要学会隔离外界杂音 稳住心态&坚守对篮球的初心",
-   "url": "https://news.zhibo8.com/nba/2026-10-21/6ad8b1a5382cbnative.htm",
-   "source": "直播吧",
-   "ts": "2026-10-21T00:00:00+08:00",
-   "precision": "day",
-   "first_seen": "2026-10-22T00:03:49+08:00",
-   "teams": [],
-   "players": [
-    "devin-booker"
    ]
   }
  ]
